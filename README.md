@@ -1,5 +1,7 @@
 # Energy Consumption Prediction
 
+![BDIFinalArchitecture](FlaskApp/static/BDIFinalArchitecture.jpg)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
