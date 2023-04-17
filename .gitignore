@@ -1,2 +1,2 @@
-#ignore everything in the Data_Lake/Databases folder
-Data_Lake/Databases/*
+#ignore everything in the BDI.db folder
+Data_Lake/Databases/EnergyWeatherDB.db
