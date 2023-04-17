@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Energy Demand Forecasts Over Time</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css" />
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/predict">AI Prediction</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+      <h1>Energy Demand Forecasts Over Time</h1>
+      <p class="description">
+        This line chart shows how energy demand forecasts have changed over
+        time. The x-axis represents date and the y-axis represents energy demand
+        forecast.
+      </p>
+      <img
+        src="{{ url_for('static', filename='energy_demand_forecasts.png') }}"
+        alt="Energy Demand Forecasts Over Time"
+      />
+      <p class="trendline">
+        The trend line on this chart shows that energy demand forecasts have
+        been steadily increasing over time. However, there are some fluctuations
+        in the data, suggesting that there are other factors influencing energy
+        demand as well.
+      </p>
+      <p class="filters">
+        By using filters, we could explore the trends by respondent, type, or
+        region to gain more insight into what factors are driving changes in
+        energy demand over time.
+      </p>
+      <div class="buttons">
+        <button type="button" disabled>Previous</button>
+        <a href="/page2"><button>Next</button></a>
+      </div>
+    </div>
+  </body>
+</html>

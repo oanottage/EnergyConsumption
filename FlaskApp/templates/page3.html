@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Distribution of Energy Demand Forecasts</title>
+    <link rel="stylesheet" type="text/css" href="static/style.css" />
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/predict">AI Prediction</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+      <h1>Distribution of Energy Demand Forecasts</h1>
+      <p class="description">
+        This histogram or frequency chart displays the distribution of energy
+        demand forecasts, showing how they are spread across different values of
+        energy demand. The x-axis represents value_energy, while the y-axis
+        represents frequency (count). Binning is used to group the data into
+        intervals, and any outliers or unusual patterns are highlighted using
+        annotations or a reference line.
+      </p>
+
+      <img
+        src="{{ url_for('static', filename='distribution_of_energy_demands.png') }}"
+        alt="Distribution of Energy Demand Forecasts"
+      />
+
+      <p class="trendline">
+        The chart shows that energy demand forecasts are distributed across a
+        range of values, with most falling within a particular range. However,
+        there may be outliers or unusual patterns that warrant further
+        investigation. For example, we may notice that certain respondents or
+        regions consistently have higher or lower energy demand forecasts than
+        others, or that certain types of weather conditions are associated with
+        particularly high or low energy demand forecasts.
+      </p>
+      <p class="filters">
+        Using filters, we can explore the distribution of energy demand
+        forecasts by respondent, type, or date. For example, we could filter the
+        data to see how the distribution varies by respondent type in a specific
+        region, or how it changes over time in response to different weather
+        patterns. These insights can help us better understand the factors that
+        contribute to energy demand and identify opportunities to improve energy
+        efficiency and sustainability.
+      </p>
+      <div class="buttons">
+        <a href="/page2"><button>Previous</button></a>
+        <button type="button" disabled>Next</button>
+      </div>
+    </div>
+  </body>
+</html>

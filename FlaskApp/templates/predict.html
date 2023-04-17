@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Energy Consumption Prediction Dashboard</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="#">AI Prediction</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+      <h1>Energy Consumption Prediction</h1>
+      <br />
+      <p>
+        This dashboard shows the energy consumption prediction for the next 24
+        hours.
+      </p>
+      <br />
+      <form method="POST">
+        <label for="type_name">Type name:</label><br />
+        <input type="radio" name="type_name" value="Net generation" /> Net
+        generation<br />
+        <input type="radio" name="type_name" value="Total interchange" /> Total
+        interchange<br />
+        <input type="radio" name="type_name" value="Demand" /> Demand<br />
+        <input
+          type="radio"
+          name="type_name"
+          value="Day-ahead demand forecast"
+        />
+        Day-ahead demand forecast<br /><br />
+        <label for="timezone">Timezone:</label><br />
+        <select name="timezone">
+          <option value="Pacific">Pacific</option>
+          <option value="Mountain">Mountain</option>
+          <option value="Arizona">Arizona</option>
+          <option value="Eastern">Eastern</option>
+          <option value="Central">Central</option></select
+        ><br /><br />
+
+        <label for="station">Station:</label><br />
+        <input type="text" name="station" /><br /><br />
+
+        <label for="attributes">Attributes:</label><br />
+        <input type="radio" name="attributes" value=",,7,0630" /> ,,7,0630<br />
+        <input type="radio" name="attributes" value=",,7,0700" /> ,,7,0700<br />
+        <input type="radio" name="attributes" value=",,7,0800" /> ,,7,0800<br />
+        <input type="radio" name="attributes" value=",,W," /> ,,W,<br />
+        <input type="radio" name="attributes" value=",,W,2400" /> ,,W,2400<br />
+        <input type="radio" name="attributes" value=",,7," /> ,,7,<br /><br />
+
+        <label for="value_weather">Value weather:</label><br />
+        <input type="text" name="value_weather" /><br /><br />
+
+        <input type="submit" value="Predict" />
+      </form>
+      {% if prediction %}
+      <p>Prediction: {{ prediction }} Megawatts of Energy</p>
+      {% endif %}
+    </div>
+  </body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Energy Demand Forecasts by Region and Weather Conditions</title>
+    <link rel="stylesheet" type="text/css" href="static/style.css" />
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/predict">AI Prediction</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+      <h1>Energy Demand Forecasts by Region and Weather Conditions</h1>
+      <p class="description">
+        This heat map or scatterplot displays how energy demand forecasts vary
+        by region and/or by weather conditions. The x-axis represents station
+        and/or value_weather, while the y-axis represents forecasted energy
+        demand. Color or shape is used to represent different levels of
+        forecasted energy demand.
+      </p>
+      <img
+        src="{{ url_for('static', filename='energy_demand_forecasts_region_weather.png') }}"
+        alt="Energy Demand Forecasts by Region and Weather Conditions"
+      />
+      <p class="trendline">
+        The chart shows that there are significant variations in energy demand
+        forecasts by region and weather conditions. For example, regions with
+        colder weather tend to have higher energy demand forecasts, while
+        regions with milder weather tend to have lower forecasts. This suggests
+        that weather is a key factor driving changes in energy demand over time.
+      </p>
+      <p class="filters">
+        Using filters, we can explore the variation in energy demand forecasts
+        by respondent, type, or date. For example, we could filter the data to
+        see how energy demand forecasts vary by respondent type in a specific
+        region, or how they change over time in response to different weather
+        patterns. These insights can help us better understand the complex
+        factors that influence energy demand and make more informed decisions
+        about how to meet future energy needs.
+      </p>
+      <div class="buttons">
+        <a href="/page1"><button>Previous</button></a>
+        <a href="/page3"><button>Next</button></a>
+      </div>
+    </div>
+  </body>
+</html>

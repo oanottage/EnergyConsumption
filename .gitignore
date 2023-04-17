@@ -1,5 +1,2 @@
-#ignore everything in the FlaskApp folder
-FlaskApp/*
-
 #ignore everything in the Data_Lake/Databases folder
 Data_Lake/Databases/*

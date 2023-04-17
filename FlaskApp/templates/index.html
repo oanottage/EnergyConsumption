@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Energy Consumption Prediction Dashboard</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/predict">AI Prediction</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+      <h1>Energy Consumption Prediction - By Onassis Nottage</h1>
+      <h2>Course: Big Data Infrastructure</h2>
+      <br />
+      <p>
+        The goal of this project is to predict energy consumption based on
+        various features such as temperature, humidity, time of day, etc. The
+        two sources of data for this project could be energy consumption data
+        and weather data. You can get the energy consumption data from the US
+        Energy Information Administration (<a
+          href="https://www.eia.gov/opendata/qb.php?category=2122628"
+          target="_blank"
+          >https://www.eia.gov/opendata/qb.php?category=2122628</a
+        >) and the weather data from NOAA (<a
+          href="https://www.ncdc.noaa.gov/cdo-web/webservices/v2"
+          target="_blank"
+          >https://www.ncdc.noaa.gov/cdo-web/webservices/v2</a
+        >).
+      </p>
+      <br />
+
+      <img
+        src="{{ url_for('static', filename='BDIFinalArchitecture.jpg') }}"
+        alt="Big Data Architecture Diagram"
+      />
+
+      <br />
+      <h2>Dashboard Features</h2>
+      <ul>
+        <li>Energy Demand Forecasts Over Time</li>
+        <li>Energy Demand Forecasts by Region and Weather Conditions</li>
+        <li>Distribution of Energy Demand Forecasts</li>
+        <li>User input form for predicting energy consumption</li>
+      </ul>
+      <p>
+        I will be using Python and popular data science libraries such as
+        Pandas, Numpy, and Scikit-learn to build the prediction model and Flask
+        to create the web application.
+      </p>
+      <br />
+      <a href="/init" target="_blank"><button>Initialize Document</button></a>
+      <a href="/page1"><button>View Story</button></a>
+    </div>
+  </body>
+</html>

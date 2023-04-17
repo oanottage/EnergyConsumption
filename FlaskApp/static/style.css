@@ -1,0 +1,181 @@
+/* Reset styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  color: #333;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  color: #555;
+}
+
+a {
+  color: #0070c0;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.chart {
+  max-width: 100%;
+  display: block;
+  margin: 20px 0;
+}
+
+.description {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.trendline {
+  font-size: 18px;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.filters {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Navigation */
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav li {
+  margin-left: 1.5rem;
+}
+
+nav a {
+  font-weight: 700;
+}
+
+/* Buttons */
+button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 3px;
+  background-color: #0070c0;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.2s ease-out;
+}
+
+button:hover {
+  background-color: #00539b;
+}
+
+button:disabled {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 3px;
+  background-color: #909496;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.2s ease-out;
+}
+
+form {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background-color: #f7f7f7;
+}
+
+label {
+  font-size: 18px;
+  margin-bottom: 10px;
+  display: block;
+  font-weight: bold;
+}
+
+input[type="text"],
+select {
+  padding: 10px;
+  border-radius: 3px;
+  border: none;
+  background-color: #fff;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+input[type="submit"] {
+  background-color: #0070c0;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-out;
+}
+
+input[type="submit"]:hover {
+  background-color: #00539b;
+}
+
+input[type="submit"]:disabled {
+  background-color: #909496;
+  cursor: default;
+}
+
+.error-message {
+  color: #d9534f;
+  margin-top: 10px;
+}
+
+.success-message {
+  color: #5cb85c;
+  margin-top: 10px;
+}
