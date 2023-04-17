@@ -1,0 +1,5 @@
+[2023-04-11T17:39:44.499+0200] {processor.py:153} INFO - Started process (PID=21138) to work on /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-04-11T17:39:44.503+0200] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-04-11T17:39:44.503+0200] {logging_mixin.py:137} INFO - [2023-04-11T17:39:44.503+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-04-11T17:39:44.542+0200] {processor.py:755} WARNING - No viable dags retrieved from /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-04-11T17:39:45.270+0200] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py took 0.772 seconds

@@ -1,0 +1,23 @@
+[2023-04-07T18:44:20.995+0200] {processor.py:153} INFO - Started process (PID=21564) to work on /Users/oanottage/airflow/dags/ETL.py
+[2023-04-07T18:44:20.999+0200] {processor.py:743} INFO - Processing file /Users/oanottage/airflow/dags/ETL.py for tasks to queue
+[2023-04-07T18:44:20.999+0200] {logging_mixin.py:137} INFO - [2023-04-07T18:44:20.999+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/oanottage/airflow/dags/ETL.py
+[2023-04-07T18:44:40.535+0200] {logging_mixin.py:137} INFO - [2023-04-07T18:44:40.533+0200] {dagbag.py:341} ERROR - Failed to import: /Users/oanottage/airflow/dags/ETL.py
+Traceback (most recent call last):
+  File "/Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 337, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/oanottage/airflow/dags/ETL.py", line 48, in <module>
+    bronze_task >> silver_task
+  File "/Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/models/taskmixin.py", line 87, in __rshift__
+    self.set_downstream(other)
+  File "/Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/models/taskmixin.py", line 236, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/models/taskmixin.py", line 195, in _set_relatives
+    raise AirflowException(f"Tried to set relationships between tasks in more than one DAG: {dags}")
+airflow.exceptions.AirflowException: Tried to set relationships between tasks in more than one DAG: {<DAG: silver_dag>, <DAG: bronze_dag>}
+[2023-04-07T18:44:40.536+0200] {processor.py:755} WARNING - No viable dags retrieved from /Users/oanottage/airflow/dags/ETL.py
+[2023-04-07T18:44:41.223+0200] {processor.py:175} INFO - Processing /Users/oanottage/airflow/dags/ETL.py took 20.228 seconds
+[2023-04-07T18:46:36.615+0200] {processor.py:153} INFO - Started process (PID=21725) to work on /Users/oanottage/airflow/dags/ETL.py
+[2023-04-07T18:46:36.619+0200] {processor.py:743} INFO - Processing file /Users/oanottage/airflow/dags/ETL.py for tasks to queue
+[2023-04-07T18:46:36.619+0200] {logging_mixin.py:137} INFO - [2023-04-07T18:46:36.619+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/oanottage/airflow/dags/ETL.py

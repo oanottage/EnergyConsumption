@@ -1,0 +1,1431 @@
+period,respondent,respondent-name,type,type-name,timezone,timezone-description,value,value-units
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,Arizona,Arizona,85512,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,Central,Central,85603,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,Eastern,Eastern,85661,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,Mountain,Mountain,85585,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,D,Demand,Pacific,Pacific,85512,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,Arizona,Arizona,19188,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,Central,Central,19087,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,Eastern,Eastern,19033,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,Mountain,Mountain,19141,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,D,Demand,Pacific,Pacific,19188,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,Arizona,Arizona,2220,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,Central,Central,2241,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,Eastern,Eastern,2253,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,Mountain,Mountain,2225,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,D,Demand,Pacific,Pacific,2220,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,D,Demand,Central,Central,1474,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,D,Demand,Eastern,Eastern,1470,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,D,Demand,Mountain,Mountain,1486,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,D,Demand,Pacific,Pacific,1464,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,Arizona,Arizona,67518,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,Central,Central,67841,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,Eastern,Eastern,68096,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,Mountain,Mountain,67671,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,D,Demand,Pacific,Pacific,67518,megawatthours
+2023-03-31,SW,Southwest,D,Demand,Arizona,Arizona,245268,megawatthours
+2023-03-31,SW,Southwest,D,Demand,Central,Central,245609,megawatthours
+2023-03-31,SW,Southwest,D,Demand,Eastern,Eastern,245981,megawatthours
+2023-03-31,SW,Southwest,D,Demand,Mountain,Mountain,245421,megawatthours
+2023-03-31,SW,Southwest,D,Demand,Pacific,Pacific,245268,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,D,Demand,Arizona,Arizona,679984,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,D,Demand,Central,Central,679468,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,D,Demand,Eastern,Eastern,679426,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,D,Demand,Mountain,Mountain,679688,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,D,Demand,Pacific,Pacific,679984,megawatthours
+2023-03-31,TAL,City of Tallahassee,D,Demand,Arizona,Arizona,6799,megawatthours
+2023-03-31,TAL,City of Tallahassee,D,Demand,Central,Central,6770,megawatthours
+2023-03-31,TAL,City of Tallahassee,D,Demand,Eastern,Eastern,6763,megawatthours
+2023-03-31,TAL,City of Tallahassee,D,Demand,Mountain,Mountain,6786,megawatthours
+2023-03-31,TAL,City of Tallahassee,D,Demand,Pacific,Pacific,6799,megawatthours
+2023-03-31,TEC,Tampa Electric Company,D,Demand,Arizona,Arizona,57833,megawatthours
+2023-03-31,TEC,Tampa Electric Company,D,Demand,Central,Central,57490,megawatthours
+2023-03-31,TEC,Tampa Electric Company,D,Demand,Eastern,Eastern,57297,megawatthours
+2023-03-31,TEC,Tampa Electric Company,D,Demand,Mountain,Mountain,57671,megawatthours
+2023-03-31,TEC,Tampa Electric Company,D,Demand,Pacific,Pacific,57833,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,D,Demand,Arizona,Arizona,33720,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,D,Demand,Central,Central,33812,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,D,Demand,Eastern,Eastern,33883,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,D,Demand,Mountain,Mountain,33766,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,D,Demand,Pacific,Pacific,33720,megawatthours
+2023-03-31,TEX,Texas,D,Demand,Arizona,Arizona,1107552,megawatthours
+2023-03-31,TEX,Texas,D,Demand,Central,Central,1110040,megawatthours
+2023-03-31,TEX,Texas,D,Demand,Eastern,Eastern,1110639,megawatthours
+2023-03-31,TEX,Texas,D,Demand,Mountain,Mountain,1109186,megawatthours
+2023-03-31,TEX,Texas,D,Demand,Pacific,Pacific,1107552,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,D,Demand,Arizona,Arizona,6347,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,D,Demand,Central,Central,6384,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,D,Demand,Eastern,Eastern,6401,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,D,Demand,Mountain,Mountain,6366,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,D,Demand,Pacific,Pacific,6347,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,Arizona,Arizona,14442,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,Central,Central,14399,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,Eastern,Eastern,14383,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,Mountain,Mountain,14412,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",D,Demand,Pacific,Pacific,14442,megawatthours
+2023-03-31,TEN,Tennessee,D,Demand,Arizona,Arizona,367436,megawatthours
+2023-03-31,TEN,Tennessee,D,Demand,Central,Central,368211,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,D,Demand,Pacific,Pacific,367436,megawatthours
+2023-03-31,TEN,Tennessee,D,Demand,Eastern,Eastern,368279,megawatthours
+2023-03-31,TEN,Tennessee,D,Demand,Mountain,Mountain,367869,megawatthours
+2023-03-31,TEN,Tennessee,D,Demand,Pacific,Pacific,367436,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,D,Demand,Arizona,Arizona,367436,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,D,Demand,Mountain,Mountain,367869,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,D,Demand,Central,Central,368211,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,D,Demand,Eastern,Eastern,368279,megawatthours
+2023-03-31,US48,United States Lower 48,D,Demand,Arizona,Arizona,10179982,megawatthours
+2023-03-31,US48,United States Lower 48,D,Demand,Central,Central,10210267,megawatthours
+2023-03-31,US48,United States Lower 48,D,Demand,Eastern,Eastern,10221015,megawatthours
+2023-03-31,US48,United States Lower 48,D,Demand,Mountain,Mountain,10196247,megawatthours
+2023-03-31,US48,United States Lower 48,D,Demand,Pacific,Pacific,10179982,megawatthours
+2023-03-31,PACE,PacifiCorp East,D,Demand,Eastern,Eastern,145395,megawatthours
+2023-03-31,PACE,PacifiCorp East,D,Demand,Mountain,Mountain,145031,megawatthours
+2023-03-31,PACE,PacifiCorp East,D,Demand,Pacific,Pacific,144899,megawatthours
+2023-03-31,PACW,PacifiCorp West,D,Demand,Arizona,Arizona,59653,megawatthours
+2023-03-31,PACW,PacifiCorp West,D,Demand,Central,Central,59651,megawatthours
+2023-03-31,PACW,PacifiCorp West,D,Demand,Eastern,Eastern,59674,megawatthours
+2023-03-31,PACW,PacifiCorp West,D,Demand,Mountain,Mountain,59653,megawatthours
+2023-03-31,PACW,PacifiCorp West,D,Demand,Pacific,Pacific,59653,megawatthours
+2023-03-31,PGE,Portland General Electric Company,D,Demand,Arizona,Arizona,63089,megawatthours
+2023-03-31,PGE,Portland General Electric Company,D,Demand,Central,Central,62937,megawatthours
+2023-03-31,PGE,Portland General Electric Company,D,Demand,Eastern,Eastern,62886,megawatthours
+2023-03-31,PGE,Portland General Electric Company,D,Demand,Mountain,Mountain,63018,megawatthours
+2023-03-31,PGE,Portland General Electric Company,D,Demand,Pacific,Pacific,63089,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",D,Demand,Arizona,Arizona,2013074,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",D,Demand,Central,Central,2030065,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",D,Demand,Eastern,Eastern,2036322,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",D,Demand,Mountain,Mountain,2021910,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",D,Demand,Pacific,Pacific,2013074,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,D,Demand,Arizona,Arizona,38092,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,D,Demand,Central,Central,37998,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,D,Demand,Eastern,Eastern,37949,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,D,Demand,Mountain,Mountain,38047,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,D,Demand,Pacific,Pacific,38092,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,D,Demand,Arizona,Arizona,111305,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,D,Demand,Central,Central,111154,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,D,Demand,Eastern,Eastern,111050,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,D,Demand,Mountain,Mountain,111218,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,D,Demand,Pacific,Pacific,111305,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",D,Demand,Arizona,Arizona,72796,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",D,Demand,Central,Central,72525,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",D,Demand,Eastern,Eastern,72418,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",D,Demand,Mountain,Mountain,72652,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",D,Demand,Pacific,Pacific,72796,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,D,Demand,Arizona,Arizona,58150,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,D,Demand,Central,Central,58311,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,D,Demand,Eastern,Eastern,58315,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,D,Demand,Mountain,Mountain,58235,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,D,Demand,Pacific,Pacific,58150,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",D,Demand,Arizona,Arizona,58242,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",D,Demand,Central,Central,58186,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",D,Demand,Eastern,Eastern,58086,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",D,Demand,Mountain,Mountain,58238,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",D,Demand,Pacific,Pacific,58242,megawatthours
+2023-03-31,SCL,Seattle City Light,D,Demand,Arizona,Arizona,28720,megawatthours
+2023-03-31,SCL,Seattle City Light,D,Demand,Central,Central,28536,megawatthours
+2023-03-31,SCL,Seattle City Light,D,Demand,Eastern,Eastern,28450,megawatthours
+2023-03-31,SCL,Seattle City Light,D,Demand,Mountain,Mountain,28617,megawatthours
+2023-03-31,SCL,Seattle City Light,D,Demand,Pacific,Pacific,28720,megawatthours
+2023-03-31,SE,Southeast,D,Demand,Arizona,Arizona,510484,megawatthours
+2023-03-31,SE,Southeast,D,Demand,Central,Central,509615,megawatthours
+2023-03-31,SE,Southeast,D,Demand,Eastern,Eastern,509191,megawatthours
+2023-03-31,SE,Southeast,D,Demand,Mountain,Mountain,510167,megawatthours
+2023-03-31,SE,Southeast,D,Demand,Pacific,Pacific,510484,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,D,Demand,Arizona,Arizona,4853,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,D,Demand,Central,Central,4843,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,D,Demand,Eastern,Eastern,4826,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,D,Demand,Mountain,Mountain,4854,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,D,Demand,Pacific,Pacific,4853,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,Arizona,Arizona,510484,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,Central,Central,509615,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,Eastern,Eastern,509191,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,Mountain,Mountain,510167,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",D,Demand,Pacific,Pacific,510484,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,D,Demand,Arizona,Arizona,1464,megawatthours
+2023-03-31,ISNE,ISO New England,D,Demand,Mountain,Mountain,293094,megawatthours
+2023-03-31,ISNE,ISO New England,D,Demand,Pacific,Pacific,291823,megawatthours
+2023-03-31,JEA,JEA,D,Demand,Arizona,Arizona,32201,megawatthours
+2023-03-31,JEA,JEA,D,Demand,Central,Central,32035,megawatthours
+2023-03-31,JEA,JEA,D,Demand,Eastern,Eastern,31915,megawatthours
+2023-03-31,JEA,JEA,D,Demand,Mountain,Mountain,32135,megawatthours
+2023-03-31,JEA,JEA,D,Demand,Pacific,Pacific,32201,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,D,Demand,Arizona,Arizona,60933,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,D,Demand,Central,Central,61542,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,D,Demand,Eastern,Eastern,61781,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,D,Demand,Mountain,Mountain,61235,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,D,Demand,Pacific,Pacific,60933,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,Arizona,Arizona,86960,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,Central,Central,87097,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,Eastern,Eastern,87144,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,Mountain,Mountain,86936,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,D,Demand,Pacific,Pacific,86960,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,D,Demand,Arizona,Arizona,2013074,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,D,Demand,Central,Central,2030065,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,D,Demand,Eastern,Eastern,2036322,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,D,Demand,Mountain,Mountain,2021910,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,D,Demand,Pacific,Pacific,2013074,megawatthours
+2023-03-31,MIDW,Midwest,D,Demand,Arizona,Arizona,1747758,megawatthours
+2023-03-31,MIDW,Midwest,D,Demand,Central,Central,1752615,megawatthours
+2023-03-31,MIDW,Midwest,D,Demand,Eastern,Eastern,1754709,megawatthours
+2023-03-31,MIDW,Midwest,D,Demand,Mountain,Mountain,1750097,megawatthours
+2023-03-31,MIDW,Midwest,D,Demand,Pacific,Pacific,1747758,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,Arizona,Arizona,1608640,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,Central,Central,1613255,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,Eastern,Eastern,1615235,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,Mountain,Mountain,1610957,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",D,Demand,Pacific,Pacific,1608640,megawatthours
+2023-03-31,NE,New England,D,Demand,Arizona,Arizona,291823,megawatthours
+2023-03-31,NE,New England,D,Demand,Central,Central,294247,megawatthours
+2023-03-31,NE,New England,D,Demand,Eastern,Eastern,295304,megawatthours
+2023-03-31,NE,New England,D,Demand,Mountain,Mountain,293094,megawatthours
+2023-03-31,NE,New England,D,Demand,Pacific,Pacific,291823,megawatthours
+2023-03-31,NEVP,Nevada Power Company,D,Demand,Arizona,Arizona,88469,megawatthours
+2023-03-31,NEVP,Nevada Power Company,D,Demand,Central,Central,88798,megawatthours
+2023-03-31,NEVP,Nevada Power Company,D,Demand,Eastern,Eastern,88997,megawatthours
+2023-03-31,NEVP,Nevada Power Company,D,Demand,Mountain,Mountain,88627,megawatthours
+2023-03-31,NEVP,Nevada Power Company,D,Demand,Pacific,Pacific,88469,megawatthours
+2023-03-31,NW,Northwest,D,Demand,Arizona,Arizona,976382,megawatthours
+2023-03-31,NW,Northwest,D,Demand,Central,Central,975845,megawatthours
+2023-03-31,NW,Northwest,D,Demand,Eastern,Eastern,975568,megawatthours
+2023-03-31,NW,Northwest,D,Demand,Mountain,Mountain,976100,megawatthours
+2023-03-31,NW,Northwest,D,Demand,Pacific,Pacific,976382,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,D,Demand,Arizona,Arizona,33396,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,D,Demand,Central,Central,33387,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,D,Demand,Eastern,Eastern,33391,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,D,Demand,Mountain,Mountain,33398,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,D,Demand,Pacific,Pacific,33396,megawatthours
+2023-03-31,NY,New York,D,Demand,Arizona,Arizona,389437,megawatthours
+2023-03-31,NY,New York,D,Demand,Central,Central,391620,megawatthours
+2023-03-31,NY,New York,D,Demand,Eastern,Eastern,392488,megawatthours
+2023-03-31,NY,New York,D,Demand,Mountain,Mountain,390584,megawatthours
+2023-03-31,NY,New York,D,Demand,Pacific,Pacific,389437,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,D,Demand,Arizona,Arizona,389437,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,D,Demand,Central,Central,391620,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,D,Demand,Eastern,Eastern,392488,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,D,Demand,Mountain,Mountain,390584,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,D,Demand,Pacific,Pacific,389437,megawatthours
+2023-03-31,PACE,PacifiCorp East,D,Demand,Arizona,Arizona,144899,megawatthours
+2023-03-31,PACE,PacifiCorp East,D,Demand,Central,Central,145225,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,D,Demand,Arizona,Arizona,248197,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,D,Demand,Central,Central,249157,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,D,Demand,Eastern,Eastern,249410,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,D,Demand,Mountain,Mountain,248759,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,D,Demand,Pacific,Pacific,248197,megawatthours
+2023-03-31,EPE,El Paso Electric Company,D,Demand,Arizona,Arizona,18272,megawatthours
+2023-03-31,EPE,El Paso Electric Company,D,Demand,Central,Central,18288,megawatthours
+2023-03-31,EPE,El Paso Electric Company,D,Demand,Eastern,Eastern,18315,megawatthours
+2023-03-31,EPE,El Paso Electric Company,D,Demand,Mountain,Mountain,18279,megawatthours
+2023-03-31,EPE,El Paso Electric Company,D,Demand,Pacific,Pacific,18272,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,Arizona,Arizona,1107552,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,Central,Central,1110040,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,Eastern,Eastern,1110639,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,Pacific,Pacific,1107552,megawatthours
+2023-03-31,FLA,Florida,D,Demand,Arizona,Arizona,668769,megawatthours
+2023-03-31,FLA,Florida,D,Demand,Central,Central,665877,megawatthours
+2023-03-31,FLA,Florida,D,Demand,Eastern,Eastern,664153,megawatthours
+2023-03-31,FLA,Florida,D,Demand,Mountain,Mountain,667459,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,D,Demand,Pacific,Pacific,135893,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,Mountain,Mountain,1109186,megawatthours
+2023-03-31,FLA,Florida,D,Demand,Pacific,Pacific,668769,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,D,Demand,Arizona,Arizona,48041,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,D,Demand,Central,Central,47795,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,D,Demand,Eastern,Eastern,47647,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,D,Demand,Mountain,Mountain,47932,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,D,Demand,Pacific,Pacific,48041,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",D,Demand,Arizona,Arizona,142179,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",D,Demand,Central,Central,141502,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",D,Demand,Eastern,Eastern,141073,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",D,Demand,Mountain,Mountain,141885,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",D,Demand,Pacific,Pacific,142179,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,D,Demand,Arizona,Arizona,370245,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,D,Demand,Central,Central,368858,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,D,Demand,Eastern,Eastern,368071,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,D,Demand,Mountain,Mountain,369593,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,D,Demand,Pacific,Pacific,370245,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,Arizona,Arizona,15759,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,Central,Central,15728,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,Eastern,Eastern,15709,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,Mountain,Mountain,15743,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",D,Demand,Pacific,Pacific,15759,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,D,Demand,Arizona,Arizona,5008,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,D,Demand,Central,Central,4977,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,D,Demand,Eastern,Eastern,4957,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,D,Demand,Mountain,Mountain,4994,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,D,Demand,Pacific,Pacific,5008,megawatthours
+2023-03-31,HST,City of Homestead,D,Demand,Arizona,Arizona,1610,megawatthours
+2023-03-31,HST,City of Homestead,D,Demand,Central,Central,1607,megawatthours
+2023-03-31,HST,City of Homestead,D,Demand,Eastern,Eastern,1604,megawatthours
+2023-03-31,HST,City of Homestead,D,Demand,Mountain,Mountain,1609,megawatthours
+2023-03-31,HST,City of Homestead,D,Demand,Pacific,Pacific,1610,megawatthours
+2023-03-31,IID,Imperial Irrigation District,D,Demand,Arizona,Arizona,6946,megawatthours
+2023-03-31,IID,Imperial Irrigation District,D,Demand,Central,Central,6939,megawatthours
+2023-03-31,IID,Imperial Irrigation District,D,Demand,Eastern,Eastern,6943,megawatthours
+2023-03-31,IID,Imperial Irrigation District,D,Demand,Mountain,Mountain,6937,megawatthours
+2023-03-31,IID,Imperial Irrigation District,D,Demand,Pacific,Pacific,6946,megawatthours
+2023-03-31,IPCO,Idaho Power Company,D,Demand,Arizona,Arizona,43520,megawatthours
+2023-03-31,IPCO,Idaho Power Company,D,Demand,Central,Central,43630,megawatthours
+2023-03-31,IPCO,Idaho Power Company,D,Demand,Eastern,Eastern,43691,megawatthours
+2023-03-31,IPCO,Idaho Power Company,D,Demand,Mountain,Mountain,43578,megawatthours
+2023-03-31,IPCO,Idaho Power Company,D,Demand,Pacific,Pacific,43520,megawatthours
+2023-03-31,ISNE,ISO New England,D,Demand,Arizona,Arizona,291823,megawatthours
+2023-03-31,ISNE,ISO New England,D,Demand,Central,Central,294247,megawatthours
+2023-03-31,ISNE,ISO New England,D,Demand,Eastern,Eastern,295304,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",D,Demand,Arizona,Arizona,52158,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",D,Demand,Central,Central,52263,megawatthours
+2023-03-31,AVA,Avista Corporation,D,Demand,Pacific,Pacific,35587,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,D,Demand,Pacific,Pacific,68478,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",D,Demand,Eastern,Eastern,52330,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,D,Demand,Arizona,Arizona,68478,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",D,Demand,Mountain,Mountain,52204,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",D,Demand,Pacific,Pacific,52158,megawatthours
+2023-03-31,AVA,Avista Corporation,D,Demand,Arizona,Arizona,35587,megawatthours
+2023-03-31,AVA,Avista Corporation,D,Demand,Central,Central,35572,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,D,Demand,Eastern,Eastern,68705,megawatthours
+2023-03-31,AVA,Avista Corporation,D,Demand,Eastern,Eastern,35484,megawatthours
+2023-03-31,AVA,Avista Corporation,D,Demand,Mountain,Mountain,35572,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,D,Demand,Central,Central,68583,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,D,Demand,Mountain,Mountain,68517,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,D,Demand,Arizona,Arizona,41286,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,D,Demand,Central,Central,41369,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,D,Demand,Eastern,Eastern,41448,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,D,Demand,Mountain,Mountain,41320,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,D,Demand,Pacific,Pacific,41286,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,D,Demand,Arizona,Arizona,166456,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,D,Demand,Central,Central,165931,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,D,Demand,Eastern,Eastern,165623,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,D,Demand,Mountain,Mountain,166226,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,D,Demand,Pacific,Pacific,166456,megawatthours
+2023-03-31,CAL,California,D,Demand,Arizona,Arizona,667974,megawatthours
+2023-03-31,CAL,California,D,Demand,Central,Central,671046,megawatthours
+2023-03-31,CAL,California,D,Demand,Eastern,Eastern,672569,megawatthours
+2023-03-31,CAL,California,D,Demand,Mountain,Mountain,669425,megawatthours
+2023-03-31,CAL,California,D,Demand,Pacific,Pacific,667974,megawatthours
+2023-03-31,CAR,Carolinas,D,Demand,Eastern,Eastern,514916,megawatthours
+2023-03-31,CAR,Carolinas,D,Demand,Pacific,Pacific,512577,megawatthours
+2023-03-31,CENT,Central,D,Demand,Arizona,Arizona,681448,megawatthours
+2023-03-31,CENT,Central,D,Demand,Central,Central,680942,megawatthours
+2023-03-31,CENT,Central,D,Demand,Eastern,Eastern,680896,megawatthours
+2023-03-31,CENT,Central,D,Demand,Pacific,Pacific,681448,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,Arizona,Arizona,5138,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,Central,Central,5127,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,Eastern,Eastern,5116,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,Mountain,Mountain,5131,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,D,Demand,Pacific,Pacific,5138,megawatthours
+2023-03-31,CISO,California Independent System Operator,D,Demand,Arizona,Arizona,552462,megawatthours
+2023-03-31,CISO,California Independent System Operator,D,Demand,Central,Central,554812,megawatthours
+2023-03-31,CISO,California Independent System Operator,D,Demand,Eastern,Eastern,555996,megawatthours
+2023-03-31,CISO,California Independent System Operator,D,Demand,Mountain,Mountain,553567,megawatthours
+2023-03-31,CISO,California Independent System Operator,D,Demand,Pacific,Pacific,552462,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,D,Demand,Arizona,Arizona,135893,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,D,Demand,Central,Central,136695,megawatthours
+2023-03-31,CAR,Carolinas,D,Demand,Arizona,Arizona,512577,megawatthours
+2023-03-31,CAR,Carolinas,D,Demand,Central,Central,514535,megawatthours
+2023-03-31,CENT,Central,D,Demand,Mountain,Mountain,681174,megawatthours
+2023-03-31,CAR,Carolinas,D,Demand,Mountain,Mountain,513761,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,D,Demand,Eastern,Eastern,136897,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,D,Demand,Mountain,Mountain,136383,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,D,Demand,Arizona,Arizona,12095,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,D,Demand,Central,Central,12186,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,D,Demand,Eastern,Eastern,12208,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,D,Demand,Mountain,Mountain,12146,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,D,Demand,Pacific,Pacific,12095,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,D,Demand,Arizona,Arizona,5421,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,D,Demand,Central,Central,5401,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,D,Demand,Eastern,Eastern,5387,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,D,Demand,Mountain,Mountain,5414,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,D,Demand,Pacific,Pacific,5421,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,Arizona,Arizona,70875,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,Central,Central,70813,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,Eastern,Eastern,70761,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,Mountain,Mountain,70875,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,DF,Day-ahead demand forecast,Pacific,Pacific,70875,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,DF,Day-ahead demand forecast,Arizona,Arizona,15099,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,DF,Day-ahead demand forecast,Central,Central,15060,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,DF,Day-ahead demand forecast,Eastern,Eastern,15039,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,DF,Day-ahead demand forecast,Mountain,Mountain,15073,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,DF,Day-ahead demand forecast,Pacific,Pacific,15099,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,Arizona,Arizona,2559,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,Central,Central,2561,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,Eastern,Eastern,2563,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,Mountain,Mountain,2560,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,DF,Day-ahead demand forecast,Pacific,Pacific,2559,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,DF,Day-ahead demand forecast,Central,Central,1554,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,DF,Day-ahead demand forecast,Eastern,Eastern,1553,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,DF,Day-ahead demand forecast,Mountain,Mountain,1549,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,DF,Day-ahead demand forecast,Pacific,Pacific,1540,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,Arizona,Arizona,67802,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,Central,Central,67731,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,Eastern,Eastern,67721,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,Mountain,Mountain,67776,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,DF,Day-ahead demand forecast,Pacific,Pacific,67802,megawatthours
+2023-03-31,SW,Southwest,DF,Day-ahead demand forecast,Arizona,Arizona,238239,megawatthours
+2023-03-31,SW,Southwest,DF,Day-ahead demand forecast,Central,Central,238362,megawatthours
+2023-03-31,SW,Southwest,DF,Day-ahead demand forecast,Eastern,Eastern,238561,megawatthours
+2023-03-31,SW,Southwest,DF,Day-ahead demand forecast,Mountain,Mountain,238273,megawatthours
+2023-03-31,SW,Southwest,DF,Day-ahead demand forecast,Pacific,Pacific,238239,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,Arizona,Arizona,698933,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,Central,Central,700226,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,Eastern,Eastern,700051,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,Mountain,Mountain,699511,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,DF,Day-ahead demand forecast,Pacific,Pacific,698933,megawatthours
+2023-03-31,TAL,City of Tallahassee,DF,Day-ahead demand forecast,Arizona,Arizona,6367,megawatthours
+2023-03-31,TAL,City of Tallahassee,DF,Day-ahead demand forecast,Central,Central,6341,megawatthours
+2023-03-31,TAL,City of Tallahassee,DF,Day-ahead demand forecast,Eastern,Eastern,6326,megawatthours
+2023-03-31,TAL,City of Tallahassee,DF,Day-ahead demand forecast,Mountain,Mountain,6355,megawatthours
+2023-03-31,TAL,City of Tallahassee,DF,Day-ahead demand forecast,Pacific,Pacific,6367,megawatthours
+2023-03-31,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,Arizona,Arizona,60875,megawatthours
+2023-03-31,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,Central,Central,60645,megawatthours
+2023-03-31,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,Eastern,Eastern,60506,megawatthours
+2023-03-31,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,Mountain,Mountain,60769,megawatthours
+2023-03-31,TEC,Tampa Electric Company,DF,Day-ahead demand forecast,Pacific,Pacific,60875,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,Arizona,Arizona,33386,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,Central,Central,33481,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,Eastern,Eastern,33543,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,Mountain,Mountain,33432,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,DF,Day-ahead demand forecast,Pacific,Pacific,33386,megawatthours
+2023-03-31,TEX,Texas,DF,Day-ahead demand forecast,Arizona,Arizona,1100481,megawatthours
+2023-03-31,TEX,Texas,DF,Day-ahead demand forecast,Central,Central,1100543,megawatthours
+2023-03-31,TEX,Texas,DF,Day-ahead demand forecast,Eastern,Eastern,1099299,megawatthours
+2023-03-31,TEX,Texas,DF,Day-ahead demand forecast,Mountain,Mountain,1100823,megawatthours
+2023-03-31,TEX,Texas,DF,Day-ahead demand forecast,Pacific,Pacific,1100481,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,Arizona,Arizona,6820,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,Central,Central,6832,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,Eastern,Eastern,6837,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,Mountain,Mountain,6826,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,DF,Day-ahead demand forecast,Pacific,Pacific,6820,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,Arizona,Arizona,14555,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,Central,Central,14495,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,Eastern,Eastern,14474,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,Mountain,Mountain,14525,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",DF,Day-ahead demand forecast,Pacific,Pacific,14555,megawatthours
+2023-03-31,TEN,Tennessee,DF,Day-ahead demand forecast,Arizona,Arizona,369090,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,Mountain,Mountain,369825,megawatthours
+2023-03-31,TEN,Tennessee,DF,Day-ahead demand forecast,Central,Central,370448,megawatthours
+2023-03-31,TEN,Tennessee,DF,Day-ahead demand forecast,Eastern,Eastern,370437,megawatthours
+2023-03-31,TEN,Tennessee,DF,Day-ahead demand forecast,Mountain,Mountain,369825,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,Pacific,Pacific,369090,megawatthours
+2023-03-31,TEN,Tennessee,DF,Day-ahead demand forecast,Pacific,Pacific,369090,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,Central,Central,370448,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,Arizona,Arizona,369090,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,DF,Day-ahead demand forecast,Eastern,Eastern,370437,megawatthours
+2023-03-31,US48,United States Lower 48,DF,Day-ahead demand forecast,Arizona,Arizona,10075652,megawatthours
+2023-03-31,US48,United States Lower 48,DF,Day-ahead demand forecast,Central,Central,10099704,megawatthours
+2023-03-31,US48,United States Lower 48,DF,Day-ahead demand forecast,Eastern,Eastern,10107367,megawatthours
+2023-03-31,US48,United States Lower 48,DF,Day-ahead demand forecast,Mountain,Mountain,10088898,megawatthours
+2023-03-31,US48,United States Lower 48,DF,Day-ahead demand forecast,Pacific,Pacific,10075652,megawatthours
+2023-03-31,PACE,PacifiCorp East,DF,Day-ahead demand forecast,Eastern,Eastern,140439,megawatthours
+2023-03-31,PACE,PacifiCorp East,DF,Day-ahead demand forecast,Mountain,Mountain,140420,megawatthours
+2023-03-31,PACE,PacifiCorp East,DF,Day-ahead demand forecast,Pacific,Pacific,140369,megawatthours
+2023-03-31,PACW,PacifiCorp West,DF,Day-ahead demand forecast,Arizona,Arizona,61473,megawatthours
+2023-03-31,PACW,PacifiCorp West,DF,Day-ahead demand forecast,Central,Central,61486,megawatthours
+2023-03-31,PACW,PacifiCorp West,DF,Day-ahead demand forecast,Eastern,Eastern,61486,megawatthours
+2023-03-31,PACW,PacifiCorp West,DF,Day-ahead demand forecast,Mountain,Mountain,61485,megawatthours
+2023-03-31,PACW,PacifiCorp West,DF,Day-ahead demand forecast,Pacific,Pacific,61473,megawatthours
+2023-03-31,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,Arizona,Arizona,62837,megawatthours
+2023-03-31,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,Central,Central,62692,megawatthours
+2023-03-31,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,Eastern,Eastern,62625,megawatthours
+2023-03-31,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,Mountain,Mountain,62768,megawatthours
+2023-03-31,PGE,Portland General Electric Company,DF,Day-ahead demand forecast,Pacific,Pacific,62837,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Arizona,Arizona,1947479,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Central,Central,1965809,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Eastern,Eastern,1973574,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Mountain,Mountain,1957171,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",DF,Day-ahead demand forecast,Pacific,Pacific,1947479,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,Arizona,Arizona,33371,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,Central,Central,33356,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,Eastern,Eastern,33366,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,Mountain,Mountain,33364,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,DF,Day-ahead demand forecast,Pacific,Pacific,33371,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,Arizona,Arizona,108447,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,Central,Central,108406,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,Eastern,Eastern,108307,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,Mountain,Mountain,108533,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,DF,Day-ahead demand forecast,Pacific,Pacific,108447,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,Arizona,Arizona,57425,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,Central,Central,56446,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,Eastern,Eastern,56398,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,Mountain,Mountain,56770,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",DF,Day-ahead demand forecast,Pacific,Pacific,57425,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,Arizona,Arizona,58075,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,Central,Central,58330,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,Eastern,Eastern,58381,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,Mountain,Mountain,58246,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,DF,Day-ahead demand forecast,Pacific,Pacific,58075,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",DF,Day-ahead demand forecast,Arizona,Arizona,53919,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",DF,Day-ahead demand forecast,Central,Central,53869,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",DF,Day-ahead demand forecast,Eastern,Eastern,53771,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",DF,Day-ahead demand forecast,Mountain,Mountain,53923,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",DF,Day-ahead demand forecast,Pacific,Pacific,53919,megawatthours
+2023-03-31,SCL,Seattle City Light,DF,Day-ahead demand forecast,Arizona,Arizona,27285,megawatthours
+2023-03-31,SCL,Seattle City Light,DF,Day-ahead demand forecast,Central,Central,27195,megawatthours
+2023-03-31,SCL,Seattle City Light,DF,Day-ahead demand forecast,Eastern,Eastern,27157,megawatthours
+2023-03-31,SCL,Seattle City Light,DF,Day-ahead demand forecast,Mountain,Mountain,27233,megawatthours
+2023-03-31,SCL,Seattle City Light,DF,Day-ahead demand forecast,Pacific,Pacific,27285,megawatthours
+2023-03-31,SE,Southeast,DF,Day-ahead demand forecast,Arizona,Arizona,532630,megawatthours
+2023-03-31,SE,Southeast,DF,Day-ahead demand forecast,Central,Central,532183,megawatthours
+2023-03-31,SE,Southeast,DF,Day-ahead demand forecast,Eastern,Eastern,532086,megawatthours
+2023-03-31,SE,Southeast,DF,Day-ahead demand forecast,Mountain,Mountain,532451,megawatthours
+2023-03-31,SE,Southeast,DF,Day-ahead demand forecast,Pacific,Pacific,532630,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,Arizona,Arizona,4260,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,Central,Central,4234,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,Eastern,Eastern,4215,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,Mountain,Mountain,4248,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,DF,Day-ahead demand forecast,Pacific,Pacific,4260,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,Arizona,Arizona,532630,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,Central,Central,532183,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,Eastern,Eastern,532086,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,Mountain,Mountain,532451,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",DF,Day-ahead demand forecast,Pacific,Pacific,532630,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,DF,Day-ahead demand forecast,Arizona,Arizona,1540,megawatthours
+2023-03-31,ISNE,ISO New England,DF,Day-ahead demand forecast,Mountain,Mountain,284640,megawatthours
+2023-03-31,ISNE,ISO New England,DF,Day-ahead demand forecast,Pacific,Pacific,283640,megawatthours
+2023-03-31,JEA,JEA,DF,Day-ahead demand forecast,Arizona,Arizona,32221,megawatthours
+2023-03-31,JEA,JEA,DF,Day-ahead demand forecast,Central,Central,32031,megawatthours
+2023-03-31,JEA,JEA,DF,Day-ahead demand forecast,Eastern,Eastern,31905,megawatthours
+2023-03-31,JEA,JEA,DF,Day-ahead demand forecast,Mountain,Mountain,32145,megawatthours
+2023-03-31,JEA,JEA,DF,Day-ahead demand forecast,Pacific,Pacific,32221,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,Arizona,Arizona,59752,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,Central,Central,59841,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,Eastern,Eastern,59944,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,Mountain,Mountain,59777,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,DF,Day-ahead demand forecast,Pacific,Pacific,59752,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,DF,Day-ahead demand forecast,Arizona,Arizona,81452,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,DF,Day-ahead demand forecast,Central,Central,81865,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,DF,Day-ahead demand forecast,Eastern,Eastern,81865,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,DF,Day-ahead demand forecast,Mountain,Mountain,81683,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,DF,Day-ahead demand forecast,Pacific,Pacific,81452,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,Arizona,Arizona,1947479,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,Central,Central,1965809,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,Eastern,Eastern,1973574,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,Mountain,Mountain,1957171,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,DF,Day-ahead demand forecast,Pacific,Pacific,1947479,megawatthours
+2023-03-31,MIDW,Midwest,DF,Day-ahead demand forecast,Arizona,Arizona,1793068,megawatthours
+2023-03-31,MIDW,Midwest,DF,Day-ahead demand forecast,Central,Central,1792275,megawatthours
+2023-03-31,MIDW,Midwest,DF,Day-ahead demand forecast,Eastern,Eastern,1792065,megawatthours
+2023-03-31,MIDW,Midwest,DF,Day-ahead demand forecast,Mountain,Mountain,1792767,megawatthours
+2023-03-31,MIDW,Midwest,DF,Day-ahead demand forecast,Pacific,Pacific,1793068,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,Arizona,Arizona,1658595,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,Central,Central,1657362,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,Eastern,Eastern,1657089,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,Mountain,Mountain,1658063,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",DF,Day-ahead demand forecast,Pacific,Pacific,1658595,megawatthours
+2023-03-31,NE,New England,DF,Day-ahead demand forecast,Arizona,Arizona,283640,megawatthours
+2023-03-31,NE,New England,DF,Day-ahead demand forecast,Central,Central,285480,megawatthours
+2023-03-31,NE,New England,DF,Day-ahead demand forecast,Eastern,Eastern,286170,megawatthours
+2023-03-31,NE,New England,DF,Day-ahead demand forecast,Mountain,Mountain,284640,megawatthours
+2023-03-31,NE,New England,DF,Day-ahead demand forecast,Pacific,Pacific,283640,megawatthours
+2023-03-31,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,Arizona,Arizona,84052,megawatthours
+2023-03-31,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,Central,Central,84196,megawatthours
+2023-03-31,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,Eastern,Eastern,84281,megawatthours
+2023-03-31,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,Mountain,Mountain,84130,megawatthours
+2023-03-31,NEVP,Nevada Power Company,DF,Day-ahead demand forecast,Pacific,Pacific,84052,megawatthours
+2023-03-31,NW,Northwest,DF,Day-ahead demand forecast,Arizona,Arizona,936544,megawatthours
+2023-03-31,NW,Northwest,DF,Day-ahead demand forecast,Central,Central,934752,megawatthours
+2023-03-31,NW,Northwest,DF,Day-ahead demand forecast,Eastern,Eastern,934279,megawatthours
+2023-03-31,NW,Northwest,DF,Day-ahead demand forecast,Mountain,Mountain,935663,megawatthours
+2023-03-31,NW,Northwest,DF,Day-ahead demand forecast,Pacific,Pacific,936544,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,Arizona,Arizona,33563,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,Central,Central,33574,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,Eastern,Eastern,33591,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,Mountain,Mountain,33562,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,DF,Day-ahead demand forecast,Pacific,Pacific,33563,megawatthours
+2023-03-31,NY,New York,DF,Day-ahead demand forecast,Arizona,Arizona,378991,megawatthours
+2023-03-31,NY,New York,DF,Day-ahead demand forecast,Central,Central,381338,megawatthours
+2023-03-31,NY,New York,DF,Day-ahead demand forecast,Eastern,Eastern,382301,megawatthours
+2023-03-31,NY,New York,DF,Day-ahead demand forecast,Mountain,Mountain,380219,megawatthours
+2023-03-31,NY,New York,DF,Day-ahead demand forecast,Pacific,Pacific,378991,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,Arizona,Arizona,378991,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,Central,Central,381338,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,Eastern,Eastern,382301,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,Mountain,Mountain,380219,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,DF,Day-ahead demand forecast,Pacific,Pacific,378991,megawatthours
+2023-03-31,PACE,PacifiCorp East,DF,Day-ahead demand forecast,Arizona,Arizona,140369,megawatthours
+2023-03-31,PACE,PacifiCorp East,DF,Day-ahead demand forecast,Central,Central,140429,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,DF,Day-ahead demand forecast,Pacific,Pacific,5332,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,DF,Day-ahead demand forecast,Arizona,Arizona,246745,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,DF,Day-ahead demand forecast,Central,Central,247937,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,DF,Day-ahead demand forecast,Eastern,Eastern,248333,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,DF,Day-ahead demand forecast,Mountain,Mountain,247405,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,DF,Day-ahead demand forecast,Pacific,Pacific,246745,megawatthours
+2023-03-31,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,Arizona,Arizona,18077,megawatthours
+2023-03-31,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,Central,Central,18107,megawatthours
+2023-03-31,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,Eastern,Eastern,18142,megawatthours
+2023-03-31,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,Mountain,Mountain,18091,megawatthours
+2023-03-31,EPE,El Paso Electric Company,DF,Day-ahead demand forecast,Pacific,Pacific,18077,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,Arizona,Arizona,1100481,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,Central,Central,1100543,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,Eastern,Eastern,1099299,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,Mountain,Mountain,1100823,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",DF,Day-ahead demand forecast,Pacific,Pacific,1100481,megawatthours
+2023-03-31,FLA,Florida,DF,Day-ahead demand forecast,Arizona,Arizona,639348,megawatthours
+2023-03-31,FLA,Florida,DF,Day-ahead demand forecast,Central,Central,636816,megawatthours
+2023-03-31,FLA,Florida,DF,Day-ahead demand forecast,Eastern,Eastern,635011,megawatthours
+2023-03-31,FLA,Florida,DF,Day-ahead demand forecast,Mountain,Mountain,638079,megawatthours
+2023-03-31,FLA,Florida,DF,Day-ahead demand forecast,Pacific,Pacific,639348,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,Arizona,Arizona,48911,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,Central,Central,48715,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,Eastern,Eastern,48579,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,Mountain,Mountain,48827,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,DF,Day-ahead demand forecast,Pacific,Pacific,48911,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,Arizona,Arizona,111693,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,Central,Central,111089,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,Eastern,Eastern,110713,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,Mountain,Mountain,111407,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",DF,Day-ahead demand forecast,Pacific,Pacific,111693,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,Arizona,Arizona,369092,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,Central,Central,367846,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,Eastern,Eastern,366855,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,Mountain,Mountain,368405,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,DF,Day-ahead demand forecast,Pacific,Pacific,369092,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",DF,Day-ahead demand forecast,Arizona,Arizona,15748,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",DF,Day-ahead demand forecast,Central,Central,15734,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",DF,Day-ahead demand forecast,Eastern,Eastern,15728,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",DF,Day-ahead demand forecast,Mountain,Mountain,15742,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",DF,Day-ahead demand forecast,Pacific,Pacific,15748,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,DF,Day-ahead demand forecast,Arizona,Arizona,4199,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,DF,Day-ahead demand forecast,Central,Central,4195,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,DF,Day-ahead demand forecast,Eastern,Eastern,4192,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,DF,Day-ahead demand forecast,Mountain,Mountain,4197,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,DF,Day-ahead demand forecast,Pacific,Pacific,4199,megawatthours
+2023-03-31,HST,City of Homestead,DF,Day-ahead demand forecast,Arizona,Arizona,1730,megawatthours
+2023-03-31,HST,City of Homestead,DF,Day-ahead demand forecast,Central,Central,1720,megawatthours
+2023-03-31,HST,City of Homestead,DF,Day-ahead demand forecast,Eastern,Eastern,1720,megawatthours
+2023-03-31,HST,City of Homestead,DF,Day-ahead demand forecast,Mountain,Mountain,1726,megawatthours
+2023-03-31,HST,City of Homestead,DF,Day-ahead demand forecast,Pacific,Pacific,1730,megawatthours
+2023-03-31,IID,Imperial Irrigation District,DF,Day-ahead demand forecast,Arizona,Arizona,7071,megawatthours
+2023-03-31,IID,Imperial Irrigation District,DF,Day-ahead demand forecast,Central,Central,7063,megawatthours
+2023-03-31,IID,Imperial Irrigation District,DF,Day-ahead demand forecast,Eastern,Eastern,7066,megawatthours
+2023-03-31,IID,Imperial Irrigation District,DF,Day-ahead demand forecast,Mountain,Mountain,7066,megawatthours
+2023-03-31,IID,Imperial Irrigation District,DF,Day-ahead demand forecast,Pacific,Pacific,7071,megawatthours
+2023-03-31,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,Arizona,Arizona,45453,megawatthours
+2023-03-31,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,Central,Central,45490,megawatthours
+2023-03-31,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,Eastern,Eastern,45505,megawatthours
+2023-03-31,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,Mountain,Mountain,45498,megawatthours
+2023-03-31,IPCO,Idaho Power Company,DF,Day-ahead demand forecast,Pacific,Pacific,45453,megawatthours
+2023-03-31,ISNE,ISO New England,DF,Day-ahead demand forecast,Arizona,Arizona,283640,megawatthours
+2023-03-31,ISNE,ISO New England,DF,Day-ahead demand forecast,Central,Central,285480,megawatthours
+2023-03-31,ISNE,ISO New England,DF,Day-ahead demand forecast,Eastern,Eastern,286170,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,Arizona,Arizona,53021,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,Pacific,Pacific,53021,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,Central,Central,53048,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,Eastern,Eastern,53111,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",DF,Day-ahead demand forecast,Mountain,Mountain,53021,megawatthours
+2023-03-31,AVA,Avista Corporation,DF,Day-ahead demand forecast,Arizona,Arizona,35980,megawatthours
+2023-03-31,AVA,Avista Corporation,DF,Day-ahead demand forecast,Central,Central,35936,megawatthours
+2023-03-31,AVA,Avista Corporation,DF,Day-ahead demand forecast,Eastern,Eastern,35937,megawatthours
+2023-03-31,AVA,Avista Corporation,DF,Day-ahead demand forecast,Mountain,Mountain,35952,megawatthours
+2023-03-31,AVA,Avista Corporation,DF,Day-ahead demand forecast,Pacific,Pacific,35980,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,Central,Central,70627,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,Mountain,Mountain,70537,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,Mountain,Mountain,42611,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,Arizona,Arizona,165345,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,Mountain,Mountain,165042,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,Arizona,Arizona,70504,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,Eastern,Eastern,164484,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,Eastern,Eastern,70750,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,Pacific,Pacific,165345,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,DF,Day-ahead demand forecast,Pacific,Pacific,70504,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,Pacific,Pacific,42593,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,Arizona,Arizona,42593,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,Central,Central,42647,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,DF,Day-ahead demand forecast,Eastern,Eastern,42716,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,DF,Day-ahead demand forecast,Central,Central,164743,megawatthours
+2023-03-31,CAL,California,DF,Day-ahead demand forecast,Eastern,Eastern,650233,megawatthours
+2023-03-31,CAL,California,DF,Day-ahead demand forecast,Mountain,Mountain,648008,megawatthours
+2023-03-31,CAL,California,DF,Day-ahead demand forecast,Pacific,Pacific,647243,megawatthours
+2023-03-31,CAR,Carolinas,DF,Day-ahead demand forecast,Arizona,Arizona,508426,megawatthours
+2023-03-31,CAR,Carolinas,DF,Day-ahead demand forecast,Central,Central,510987,megawatthours
+2023-03-31,CAR,Carolinas,DF,Day-ahead demand forecast,Eastern,Eastern,511747,megawatthours
+2023-03-31,CAR,Carolinas,DF,Day-ahead demand forecast,Mountain,Mountain,509919,megawatthours
+2023-03-31,CAR,Carolinas,DF,Day-ahead demand forecast,Pacific,Pacific,508426,megawatthours
+2023-03-31,CENT,Central,DF,Day-ahead demand forecast,Arizona,Arizona,700473,megawatthours
+2023-03-31,CENT,Central,DF,Day-ahead demand forecast,Central,Central,701780,megawatthours
+2023-03-31,CENT,Central,DF,Day-ahead demand forecast,Eastern,Eastern,701604,megawatthours
+2023-03-31,CENT,Central,DF,Day-ahead demand forecast,Mountain,Mountain,701060,megawatthours
+2023-03-31,CENT,Central,DF,Day-ahead demand forecast,Pacific,Pacific,700473,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,Arizona,Arizona,5246,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,Eastern,Eastern,5232,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,Mountain,Mountain,5243,megawatthours
+2023-03-31,CISO,California Independent System Operator,DF,Day-ahead demand forecast,Arizona,Arizona,531007,megawatthours
+2023-03-31,CISO,California Independent System Operator,DF,Day-ahead demand forecast,Central,Central,532548,megawatthours
+2023-03-31,CISO,California Independent System Operator,DF,Day-ahead demand forecast,Eastern,Eastern,533670,megawatthours
+2023-03-31,CISO,California Independent System Operator,DF,Day-ahead demand forecast,Mountain,Mountain,531728,megawatthours
+2023-03-31,CISO,California Independent System Operator,DF,Day-ahead demand forecast,Pacific,Pacific,531007,megawatthours
+2023-03-31,CAL,California,DF,Day-ahead demand forecast,Arizona,Arizona,647243,megawatthours
+2023-03-31,CAL,California,DF,Day-ahead demand forecast,Central,Central,648931,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,Central,Central,5238,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,DF,Day-ahead demand forecast,Pacific,Pacific,5246,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,DF,Day-ahead demand forecast,Arizona,Arizona,137233,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,DF,Day-ahead demand forecast,Central,Central,138297,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,DF,Day-ahead demand forecast,Eastern,Eastern,138668,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,DF,Day-ahead demand forecast,Mountain,Mountain,137835,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,DF,Day-ahead demand forecast,Pacific,Pacific,137233,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,DF,Day-ahead demand forecast,Arizona,Arizona,12454,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,DF,Day-ahead demand forecast,Central,Central,12554,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,DF,Day-ahead demand forecast,Eastern,Eastern,12594,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,DF,Day-ahead demand forecast,Mountain,Mountain,12510,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,DF,Day-ahead demand forecast,Pacific,Pacific,12454,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,DF,Day-ahead demand forecast,Arizona,Arizona,5332,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,DF,Day-ahead demand forecast,Central,Central,5318,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,DF,Day-ahead demand forecast,Eastern,Eastern,5311,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,DF,Day-ahead demand forecast,Mountain,Mountain,5325,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",NG,Net generation,Central,Central,45637,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",NG,Net generation,Arizona,Arizona,45666,megawatthours
+2023-03-31,AVA,Avista Corporation,NG,Net generation,Mountain,Mountain,23049,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",NG,Net generation,Eastern,Eastern,45347,megawatthours
+2023-03-31,AVA,Avista Corporation,NG,Net generation,Central,Central,23049,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",NG,Net generation,Mountain,Mountain,45750,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",NG,Net generation,Pacific,Pacific,45666,megawatthours
+2023-03-31,AVA,Avista Corporation,NG,Net generation,Arizona,Arizona,23131,megawatthours
+2023-03-31,AVA,Avista Corporation,NG,Net generation,Eastern,Eastern,22795,megawatthours
+2023-03-31,AVRN,"Avangrid Renewables, LLC",NG,Net generation,Central,Central,30967,megawatthours
+2023-03-31,AVA,Avista Corporation,NG,Net generation,Pacific,Pacific,23131,megawatthours
+2023-03-31,AVRN,"Avangrid Renewables, LLC",NG,Net generation,Eastern,Eastern,32020,megawatthours
+2023-03-31,AVRN,"Avangrid Renewables, LLC",NG,Net generation,Arizona,Arizona,29379,megawatthours
+2023-03-31,AVRN,"Avangrid Renewables, LLC",NG,Net generation,Pacific,Pacific,29379,megawatthours
+2023-03-31,AVRN,"Avangrid Renewables, LLC",NG,Net generation,Mountain,Mountain,30222,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,NG,Net generation,Arizona,Arizona,49120,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,NG,Net generation,Central,Central,49223,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,NG,Net generation,Eastern,Eastern,49248,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,NG,Net generation,Mountain,Mountain,49089,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,NG,Net generation,Pacific,Pacific,49120,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,NG,Net generation,Arizona,Arizona,34800,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,NG,Net generation,Central,Central,34736,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,NG,Net generation,Eastern,Eastern,34744,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,NG,Net generation,Mountain,Mountain,34726,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,NG,Net generation,Pacific,Pacific,34800,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,NG,Net generation,Arizona,Arizona,234540,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,NG,Net generation,Central,Central,234714,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,NG,Net generation,Eastern,Eastern,235135,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,NG,Net generation,Mountain,Mountain,234590,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,NG,Net generation,Pacific,Pacific,234540,megawatthours
+2023-03-31,CAL,California,NG,Net generation,Arizona,Arizona,498406,megawatthours
+2023-03-31,CAL,California,NG,Net generation,Central,Central,500706,megawatthours
+2023-03-31,CAL,California,NG,Net generation,Eastern,Eastern,501767,megawatthours
+2023-03-31,CAL,California,NG,Net generation,Mountain,Mountain,499546,megawatthours
+2023-03-31,CAL,California,NG,Net generation,Pacific,Pacific,498406,megawatthours
+2023-03-31,CAR,Carolinas,NG,Net generation,Central,Central,515290,megawatthours
+2023-03-31,CAR,Carolinas,NG,Net generation,Eastern,Eastern,515339,megawatthours
+2023-03-31,CAR,Carolinas,NG,Net generation,Pacific,Pacific,513682,megawatthours
+2023-03-31,CENT,Central,NG,Net generation,Central,Central,729148,megawatthours
+2023-03-31,CENT,Central,NG,Net generation,Eastern,Eastern,729512,megawatthours
+2023-03-31,CENT,Central,NG,Net generation,Mountain,Mountain,728862,megawatthours
+2023-03-31,CENT,Central,NG,Net generation,Pacific,Pacific,728060,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,NG,Net generation,Arizona,Arizona,15381,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,NG,Net generation,Central,Central,15275,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,NG,Net generation,Eastern,Eastern,14770,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,NG,Net generation,Mountain,Mountain,15424,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,NG,Net generation,Pacific,Pacific,15381,megawatthours
+2023-03-31,CISO,California Independent System Operator,NG,Net generation,Arizona,Arizona,400961,megawatthours
+2023-03-31,CISO,California Independent System Operator,NG,Net generation,Central,Central,402580,megawatthours
+2023-03-31,CISO,California Independent System Operator,NG,Net generation,Eastern,Eastern,403544,megawatthours
+2023-03-31,CISO,California Independent System Operator,NG,Net generation,Mountain,Mountain,401716,megawatthours
+2023-03-31,CISO,California Independent System Operator,NG,Net generation,Pacific,Pacific,400961,megawatthours
+2023-03-31,CAR,Carolinas,NG,Net generation,Arizona,Arizona,513682,megawatthours
+2023-03-31,CENT,Central,NG,Net generation,Arizona,Arizona,728060,megawatthours
+2023-03-31,CAR,Carolinas,NG,Net generation,Mountain,Mountain,514701,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,NG,Net generation,Arizona,Arizona,139019,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,NG,Net generation,Central,Central,140676,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,NG,Net generation,Eastern,Eastern,141440,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,NG,Net generation,Mountain,Mountain,139838,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,NG,Net generation,Central,Central,10275,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,NG,Net generation,Eastern,Eastern,10437,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,NG,Net generation,Mountain,Mountain,10077,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,NG,Net generation,Pacific,Pacific,9874,megawatthours
+2023-03-31,DEAA,"Arlington Valley, LLC",NG,Net generation,Arizona,Arizona,10763,megawatthours
+2023-03-31,DEAA,"Arlington Valley, LLC",NG,Net generation,Central,Central,10860,megawatthours
+2023-03-31,DEAA,"Arlington Valley, LLC",NG,Net generation,Eastern,Eastern,10864,megawatthours
+2023-03-31,DEAA,"Arlington Valley, LLC",NG,Net generation,Mountain,Mountain,10858,megawatthours
+2023-03-31,DEAA,"Arlington Valley, LLC",NG,Net generation,Pacific,Pacific,10763,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,NG,Net generation,Arizona,Arizona,7126,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,NG,Net generation,Central,Central,7221,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,NG,Net generation,Eastern,Eastern,7274,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,NG,Net generation,Mountain,Mountain,7199,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,NG,Net generation,Pacific,Pacific,7126,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,NG,Net generation,Arizona,Arizona,257728,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,NG,Net generation,Central,Central,257451,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,NG,Net generation,Eastern,Eastern,257000,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,NG,Net generation,Mountain,Mountain,257791,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,NG,Net generation,Pacific,Pacific,257728,megawatthours
+2023-03-31,EPE,El Paso Electric Company,NG,Net generation,Arizona,Arizona,9581,megawatthours
+2023-03-31,EPE,El Paso Electric Company,NG,Net generation,Central,Central,9616,megawatthours
+2023-03-31,EPE,El Paso Electric Company,NG,Net generation,Eastern,Eastern,9619,megawatthours
+2023-03-31,EPE,El Paso Electric Company,NG,Net generation,Mountain,Mountain,9617,megawatthours
+2023-03-31,EPE,El Paso Electric Company,NG,Net generation,Pacific,Pacific,9581,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",NG,Net generation,Arizona,Arizona,1114046,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",NG,Net generation,Central,Central,1116132,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",NG,Net generation,Eastern,Eastern,1116549,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",NG,Net generation,Mountain,Mountain,1115432,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",NG,Net generation,Pacific,Pacific,1114046,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,NG,Net generation,Pacific,Pacific,139019,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,NG,Net generation,Arizona,Arizona,9874,megawatthours
+2023-03-31,FLA,Florida,NG,Net generation,Arizona,Arizona,653089,megawatthours
+2023-03-31,FLA,Florida,NG,Net generation,Central,Central,651171,megawatthours
+2023-03-31,FLA,Florida,NG,Net generation,Eastern,Eastern,649681,megawatthours
+2023-03-31,FLA,Florida,NG,Net generation,Mountain,Mountain,652271,megawatthours
+2023-03-31,FLA,Florida,NG,Net generation,Pacific,Pacific,653089,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,NG,Net generation,Arizona,Arizona,42888,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,NG,Net generation,Central,Central,42591,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,NG,Net generation,Eastern,Eastern,42383,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,NG,Net generation,Mountain,Mountain,42759,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,NG,Net generation,Pacific,Pacific,42888,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",NG,Net generation,Arizona,Arizona,105483,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",NG,Net generation,Central,Central,104907,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",NG,Net generation,Eastern,Eastern,104662,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",NG,Net generation,Mountain,Mountain,105218,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",NG,Net generation,Pacific,Pacific,105483,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,NG,Net generation,Arizona,Arizona,375524,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,NG,Net generation,Central,Central,374910,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,NG,Net generation,Eastern,Eastern,374395,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,NG,Net generation,Mountain,Mountain,375317,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,NG,Net generation,Pacific,Pacific,375524,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",NG,Net generation,Arizona,Arizona,14923,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",NG,Net generation,Central,Central,14872,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",NG,Net generation,Eastern,Eastern,14831,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",NG,Net generation,Mountain,Mountain,14900,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",NG,Net generation,Pacific,Pacific,14923,megawatthours
+2023-03-31,GRID,"Gridforce Energy Management, LLC",NG,Net generation,Arizona,Arizona,44871,megawatthours
+2023-03-31,GRID,"Gridforce Energy Management, LLC",NG,Net generation,Central,Central,44193,megawatthours
+2023-03-31,GRID,"Gridforce Energy Management, LLC",NG,Net generation,Eastern,Eastern,43840,megawatthours
+2023-03-31,GRID,"Gridforce Energy Management, LLC",NG,Net generation,Mountain,Mountain,44542,megawatthours
+2023-03-31,GRID,"Gridforce Energy Management, LLC",NG,Net generation,Pacific,Pacific,44871,megawatthours
+2023-03-31,GRIF,"Griffith Energy, LLC",NG,Net generation,Arizona,Arizona,10304,megawatthours
+2023-03-31,GRIF,"Griffith Energy, LLC",NG,Net generation,Central,Central,10316,megawatthours
+2023-03-31,GRIF,"Griffith Energy, LLC",NG,Net generation,Eastern,Eastern,10327,megawatthours
+2023-03-31,GRIF,"Griffith Energy, LLC",NG,Net generation,Mountain,Mountain,10306,megawatthours
+2023-03-31,GRIF,"Griffith Energy, LLC",NG,Net generation,Pacific,Pacific,10304,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,NG,Net generation,Arizona,Arizona,4571,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,NG,Net generation,Central,Central,4538,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,NG,Net generation,Eastern,Eastern,4515,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,NG,Net generation,Mountain,Mountain,4560,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,NG,Net generation,Pacific,Pacific,4571,megawatthours
+2023-03-31,GWA,"NaturEner Power Watch, LLC",NG,Net generation,Arizona,Arizona,2076,megawatthours
+2023-03-31,GWA,"NaturEner Power Watch, LLC",NG,Net generation,Central,Central,1812,megawatthours
+2023-03-31,GWA,"NaturEner Power Watch, LLC",NG,Net generation,Eastern,Eastern,1660,megawatthours
+2023-03-31,GWA,"NaturEner Power Watch, LLC",NG,Net generation,Mountain,Mountain,1944,megawatthours
+2023-03-31,GWA,"NaturEner Power Watch, LLC",NG,Net generation,Pacific,Pacific,2076,megawatthours
+2023-03-31,HGMA,"New Harquahala Generating Company, LLC",NG,Net generation,Arizona,Arizona,-31,megawatthours
+2023-03-31,HGMA,"New Harquahala Generating Company, LLC",NG,Net generation,Central,Central,-30,megawatthours
+2023-03-31,HGMA,"New Harquahala Generating Company, LLC",NG,Net generation,Eastern,Eastern,-28,megawatthours
+2023-03-31,HGMA,"New Harquahala Generating Company, LLC",NG,Net generation,Mountain,Mountain,-31,megawatthours
+2023-03-31,HGMA,"New Harquahala Generating Company, LLC",NG,Net generation,Pacific,Pacific,-31,megawatthours
+2023-03-31,HST,City of Homestead,NG,Net generation,Arizona,Arizona,3,megawatthours
+2023-03-31,HST,City of Homestead,NG,Net generation,Central,Central,3,megawatthours
+2023-03-31,HST,City of Homestead,NG,Net generation,Eastern,Eastern,3,megawatthours
+2023-03-31,HST,City of Homestead,NG,Net generation,Mountain,Mountain,3,megawatthours
+2023-03-31,HST,City of Homestead,NG,Net generation,Pacific,Pacific,3,megawatthours
+2023-03-31,IID,Imperial Irrigation District,NG,Net generation,Arizona,Arizona,15358,megawatthours
+2023-03-31,IID,Imperial Irrigation District,NG,Net generation,Central,Central,15411,megawatthours
+2023-03-31,IID,Imperial Irrigation District,NG,Net generation,Eastern,Eastern,15455,megawatthours
+2023-03-31,IID,Imperial Irrigation District,NG,Net generation,Mountain,Mountain,15363,megawatthours
+2023-03-31,IID,Imperial Irrigation District,NG,Net generation,Pacific,Pacific,15358,megawatthours
+2023-03-31,IPCO,Idaho Power Company,NG,Net generation,Arizona,Arizona,31172,megawatthours
+2023-03-31,IPCO,Idaho Power Company,NG,Net generation,Central,Central,31231,megawatthours
+2023-03-31,IPCO,Idaho Power Company,NG,Net generation,Eastern,Eastern,31493,megawatthours
+2023-03-31,IPCO,Idaho Power Company,NG,Net generation,Mountain,Mountain,31129,megawatthours
+2023-03-31,IPCO,Idaho Power Company,NG,Net generation,Pacific,Pacific,31172,megawatthours
+2023-03-31,ISNE,ISO New England,NG,Net generation,Arizona,Arizona,269664,megawatthours
+2023-03-31,ISNE,ISO New England,NG,Net generation,Central,Central,272594,megawatthours
+2023-03-31,ISNE,ISO New England,NG,Net generation,Eastern,Eastern,274173,megawatthours
+2023-03-31,ISNE,ISO New England,NG,Net generation,Mountain,Mountain,271068,megawatthours
+2023-03-31,ISNE,ISO New England,NG,Net generation,Pacific,Pacific,269664,megawatthours
+2023-03-31,JEA,JEA,NG,Net generation,Arizona,Arizona,24584,megawatthours
+2023-03-31,JEA,JEA,NG,Net generation,Central,Central,24807,megawatthours
+2023-03-31,JEA,JEA,NG,Net generation,Eastern,Eastern,24784,megawatthours
+2023-03-31,JEA,JEA,NG,Net generation,Mountain,Mountain,24664,megawatthours
+2023-03-31,JEA,JEA,NG,Net generation,Pacific,Pacific,24584,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,NG,Net generation,Arizona,Arizona,39180,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,NG,Net generation,Central,Central,39962,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,NG,Net generation,Eastern,Eastern,40127,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,NG,Net generation,Mountain,Mountain,39677,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,NG,Net generation,Pacific,Pacific,39180,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,NG,Net generation,Arizona,Arizona,73361,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,NG,Net generation,Central,Central,73635,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,NG,Net generation,Eastern,Eastern,73713,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,NG,Net generation,Mountain,Mountain,73513,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,NG,Net generation,Pacific,Pacific,73361,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,NG,Net generation,Arizona,Arizona,2087082,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,NG,Net generation,Central,Central,2106261,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,NG,Net generation,Eastern,Eastern,2114010,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,NG,Net generation,Mountain,Mountain,2097021,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,NG,Net generation,Pacific,Pacific,2087082,megawatthours
+2023-03-31,MIDW,Midwest,NG,Net generation,Arizona,Arizona,1671055,megawatthours
+2023-03-31,MIDW,Midwest,NG,Net generation,Central,Central,1675031,megawatthours
+2023-03-31,MIDW,Midwest,NG,Net generation,Eastern,Eastern,1676920,megawatthours
+2023-03-31,MIDW,Midwest,NG,Net generation,Mountain,Mountain,1672809,megawatthours
+2023-03-31,MIDW,Midwest,NG,Net generation,Pacific,Pacific,1671055,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",NG,Net generation,Arizona,Arizona,1552028,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",NG,Net generation,Central,Central,1555759,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",NG,Net generation,Eastern,Eastern,1557860,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",NG,Net generation,Mountain,Mountain,1553546,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",NG,Net generation,Pacific,Pacific,1552028,megawatthours
+2023-03-31,NE,New England,NG,Net generation,Arizona,Arizona,269664,megawatthours
+2023-03-31,NE,New England,NG,Net generation,Central,Central,272594,megawatthours
+2023-03-31,NE,New England,NG,Net generation,Eastern,Eastern,274173,megawatthours
+2023-03-31,NE,New England,NG,Net generation,Mountain,Mountain,271068,megawatthours
+2023-03-31,NE,New England,NG,Net generation,Pacific,Pacific,269664,megawatthours
+2023-03-31,NEVP,Nevada Power Company,NG,Net generation,Arizona,Arizona,78783,megawatthours
+2023-03-31,NEVP,Nevada Power Company,NG,Net generation,Central,Central,78531,megawatthours
+2023-03-31,NEVP,Nevada Power Company,NG,Net generation,Eastern,Eastern,78640,megawatthours
+2023-03-31,NEVP,Nevada Power Company,NG,Net generation,Mountain,Mountain,78631,megawatthours
+2023-03-31,NEVP,Nevada Power Company,NG,Net generation,Pacific,Pacific,78783,megawatthours
+2023-03-31,NW,Northwest,NG,Net generation,Arizona,Arizona,980794,megawatthours
+2023-03-31,NW,Northwest,NG,Net generation,Central,Central,979992,megawatthours
+2023-03-31,NW,Northwest,NG,Net generation,Eastern,Eastern,979965,megawatthours
+2023-03-31,NW,Northwest,NG,Net generation,Mountain,Mountain,980590,megawatthours
+2023-03-31,NW,Northwest,NG,Net generation,Pacific,Pacific,980794,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,NG,Net generation,Arizona,Arizona,56606,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,NG,Net generation,Central,Central,55621,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,NG,Net generation,Eastern,Eastern,55218,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,NG,Net generation,Mountain,Mountain,56109,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,NG,Net generation,Pacific,Pacific,56606,megawatthours
+2023-03-31,NY,New York,NG,Net generation,Arizona,Arizona,310419,megawatthours
+2023-03-31,NY,New York,NG,Net generation,Central,Central,310183,megawatthours
+2023-03-31,NY,New York,NG,Net generation,Eastern,Eastern,309522,megawatthours
+2023-03-31,NY,New York,NG,Net generation,Mountain,Mountain,310430,megawatthours
+2023-03-31,NY,New York,NG,Net generation,Pacific,Pacific,310419,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,NG,Net generation,Arizona,Arizona,310419,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,NG,Net generation,Central,Central,310183,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,NG,Net generation,Eastern,Eastern,309522,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,NG,Net generation,Mountain,Mountain,310430,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,NG,Net generation,Pacific,Pacific,310419,megawatthours
+2023-03-31,PACE,PacifiCorp East,NG,Net generation,Arizona,Arizona,145911,megawatthours
+2023-03-31,PACE,PacifiCorp East,NG,Net generation,Central,Central,145667,megawatthours
+2023-03-31,PACE,PacifiCorp East,NG,Net generation,Eastern,Eastern,145307,megawatthours
+2023-03-31,PACE,PacifiCorp East,NG,Net generation,Mountain,Mountain,145962,megawatthours
+2023-03-31,PACE,PacifiCorp East,NG,Net generation,Pacific,Pacific,145911,megawatthours
+2023-03-31,PACW,PacifiCorp West,NG,Net generation,Arizona,Arizona,18720,megawatthours
+2023-03-31,PACW,PacifiCorp West,NG,Net generation,Central,Central,18895,megawatthours
+2023-03-31,PACW,PacifiCorp West,NG,Net generation,Eastern,Eastern,19082,megawatthours
+2023-03-31,PACW,PacifiCorp West,NG,Net generation,Mountain,Mountain,18769,megawatthours
+2023-03-31,PACW,PacifiCorp West,NG,Net generation,Pacific,Pacific,18720,megawatthours
+2023-03-31,PGE,Portland General Electric Company,NG,Net generation,Arizona,Arizona,16480,megawatthours
+2023-03-31,PGE,Portland General Electric Company,NG,Net generation,Central,Central,16577,megawatthours
+2023-03-31,PGE,Portland General Electric Company,NG,Net generation,Eastern,Eastern,16636,megawatthours
+2023-03-31,PGE,Portland General Electric Company,NG,Net generation,Mountain,Mountain,16549,megawatthours
+2023-03-31,PGE,Portland General Electric Company,NG,Net generation,Pacific,Pacific,16480,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",NG,Net generation,Arizona,Arizona,2087082,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",NG,Net generation,Central,Central,2106261,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",NG,Net generation,Eastern,Eastern,2114010,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",NG,Net generation,Mountain,Mountain,2097021,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",NG,Net generation,Pacific,Pacific,2087082,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,NG,Net generation,Arizona,Arizona,57582,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,NG,Net generation,Central,Central,57649,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,NG,Net generation,Eastern,Eastern,57648,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,NG,Net generation,Mountain,Mountain,57590,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,NG,Net generation,Pacific,Pacific,57582,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,NG,Net generation,Arizona,Arizona,117814,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,NG,Net generation,Central,Central,117486,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,NG,Net generation,Eastern,Eastern,117472,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,NG,Net generation,Mountain,Mountain,117650,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,NG,Net generation,Pacific,Pacific,117814,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,Arizona,Arizona,28879,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,Central,Central,29107,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,Eastern,Eastern,29190,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,Mountain,Mountain,28960,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",NG,Net generation,Pacific,Pacific,28879,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,NG,Net generation,Arizona,Arizona,41264,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,NG,Net generation,Central,Central,41433,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,NG,Net generation,Eastern,Eastern,41232,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,NG,Net generation,Mountain,Mountain,41367,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,NG,Net generation,Pacific,Pacific,41264,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",NG,Net generation,Arizona,Arizona,63755,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",NG,Net generation,Central,Central,63413,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",NG,Net generation,Eastern,Eastern,63188,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",NG,Net generation,Mountain,Mountain,63586,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",NG,Net generation,Pacific,Pacific,63755,megawatthours
+2023-03-31,SCL,Seattle City Light,NG,Net generation,Arizona,Arizona,11876,megawatthours
+2023-03-31,SCL,Seattle City Light,NG,Net generation,Central,Central,11714,megawatthours
+2023-03-31,SCL,Seattle City Light,NG,Net generation,Eastern,Eastern,11693,megawatthours
+2023-03-31,SCL,Seattle City Light,NG,Net generation,Mountain,Mountain,11821,megawatthours
+2023-03-31,SCL,Seattle City Light,NG,Net generation,Pacific,Pacific,11876,megawatthours
+2023-03-31,SE,Southeast,NG,Net generation,Arizona,Arizona,529776,megawatthours
+2023-03-31,SE,Southeast,NG,Net generation,Central,Central,529643,megawatthours
+2023-03-31,SE,Southeast,NG,Net generation,Eastern,Eastern,528853,megawatthours
+2023-03-31,SE,Southeast,NG,Net generation,Mountain,Mountain,529845,megawatthours
+2023-03-31,SE,Southeast,NG,Net generation,Pacific,Pacific,529776,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,NG,Net generation,Arizona,Arizona,35867,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,NG,Net generation,Central,Central,35592,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,NG,Net generation,Eastern,Eastern,35304,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,NG,Net generation,Mountain,Mountain,35750,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,NG,Net generation,Pacific,Pacific,35867,megawatthours
+2023-03-31,SEPA,Southeastern Power Administration,NG,Net generation,Arizona,Arizona,5053,megawatthours
+2023-03-31,SEPA,Southeastern Power Administration,NG,Net generation,Central,Central,5053,megawatthours
+2023-03-31,SEPA,Southeastern Power Administration,NG,Net generation,Eastern,Eastern,5053,megawatthours
+2023-03-31,SEPA,Southeastern Power Administration,NG,Net generation,Mountain,Mountain,5053,megawatthours
+2023-03-31,SEPA,Southeastern Power Administration,NG,Net generation,Pacific,Pacific,5053,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",NG,Net generation,Arizona,Arizona,524723,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",NG,Net generation,Central,Central,524590,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",NG,Net generation,Eastern,Eastern,523800,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",NG,Net generation,Mountain,Mountain,524792,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",NG,Net generation,Pacific,Pacific,524723,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,NG,Net generation,Arizona,Arizona,21036,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,NG,Net generation,Central,Central,20867,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,NG,Net generation,Eastern,Eastern,20789,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,NG,Net generation,Mountain,Mountain,20956,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,NG,Net generation,Pacific,Pacific,21036,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,NG,Net generation,Arizona,Arizona,154634,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,NG,Net generation,Central,Central,153599,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,NG,Net generation,Eastern,Eastern,153441,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,NG,Net generation,Mountain,Mountain,153876,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,NG,Net generation,Pacific,Pacific,154634,megawatthours
+2023-03-31,SW,Southwest,NG,Net generation,Arizona,Arizona,337840,megawatthours
+2023-03-31,SW,Southwest,NG,Net generation,Central,Central,337758,megawatthours
+2023-03-31,SW,Southwest,NG,Net generation,Eastern,Eastern,337840,megawatthours
+2023-03-31,SW,Southwest,NG,Net generation,Mountain,Mountain,337575,megawatthours
+2023-03-31,SW,Southwest,NG,Net generation,Pacific,Pacific,337840,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,NG,Net generation,Arizona,Arizona,707024,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,NG,Net generation,Central,Central,708281,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,NG,Net generation,Eastern,Eastern,708723,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,NG,Net generation,Mountain,Mountain,707906,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,NG,Net generation,Pacific,Pacific,707024,megawatthours
+2023-03-31,TAL,City of Tallahassee,NG,Net generation,Arizona,Arizona,6861,megawatthours
+2023-03-31,TAL,City of Tallahassee,NG,Net generation,Central,Central,6828,megawatthours
+2023-03-31,TAL,City of Tallahassee,NG,Net generation,Eastern,Eastern,6820,megawatthours
+2023-03-31,TAL,City of Tallahassee,NG,Net generation,Mountain,Mountain,6845,megawatthours
+2023-03-31,TAL,City of Tallahassee,NG,Net generation,Pacific,Pacific,6861,megawatthours
+2023-03-31,TEC,Tampa Electric Company,NG,Net generation,Arizona,Arizona,57308,megawatthours
+2023-03-31,TEC,Tampa Electric Company,NG,Net generation,Central,Central,56995,megawatthours
+2023-03-31,TEC,Tampa Electric Company,NG,Net generation,Eastern,Eastern,56815,megawatthours
+2023-03-31,TEC,Tampa Electric Company,NG,Net generation,Mountain,Mountain,57155,megawatthours
+2023-03-31,TEC,Tampa Electric Company,NG,Net generation,Pacific,Pacific,57308,megawatthours
+2023-03-31,TEN,Tennessee,NG,Net generation,Mountain,Mountain,362642,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,NG,Net generation,Arizona,Arizona,26540,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,NG,Net generation,Central,Central,27204,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,NG,Net generation,Eastern,Eastern,27449,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,NG,Net generation,Mountain,Mountain,26936,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,NG,Net generation,Pacific,Pacific,26540,megawatthours
+2023-03-31,TEX,Texas,NG,Net generation,Arizona,Arizona,1114046,megawatthours
+2023-03-31,TEX,Texas,NG,Net generation,Central,Central,1116132,megawatthours
+2023-03-31,TEX,Texas,NG,Net generation,Eastern,Eastern,1116549,megawatthours
+2023-03-31,TEX,Texas,NG,Net generation,Mountain,Mountain,1115432,megawatthours
+2023-03-31,TEX,Texas,NG,Net generation,Pacific,Pacific,1114046,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,NG,Net generation,Arizona,Arizona,8107,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,NG,Net generation,Central,Central,8017,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,NG,Net generation,Eastern,Eastern,7897,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,NG,Net generation,Mountain,Mountain,8064,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,NG,Net generation,Pacific,Pacific,8107,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",NG,Net generation,Arizona,Arizona,4223,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",NG,Net generation,Central,Central,4221,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",NG,Net generation,Eastern,Eastern,4220,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",NG,Net generation,Mountain,Mountain,4223,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",NG,Net generation,Pacific,Pacific,4223,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,NG,Net generation,Pacific,Pacific,362297,megawatthours
+2023-03-31,TEN,Tennessee,NG,Net generation,Arizona,Arizona,362297,megawatthours
+2023-03-31,TEN,Tennessee,NG,Net generation,Central,Central,362800,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,NG,Net generation,Mountain,Mountain,362642,megawatthours
+2023-03-31,TEN,Tennessee,NG,Net generation,Eastern,Eastern,363151,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,NG,Net generation,Arizona,Arizona,362297,megawatthours
+2023-03-31,TEN,Tennessee,NG,Net generation,Pacific,Pacific,362297,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,NG,Net generation,Central,Central,362800,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,NG,Net generation,Eastern,Eastern,363151,megawatthours
+2023-03-31,US48,United States Lower 48,NG,Net generation,Arizona,Arizona,10056210,megawatthours
+2023-03-31,US48,United States Lower 48,NG,Net generation,Central,Central,10086709,megawatthours
+2023-03-31,US48,United States Lower 48,NG,Net generation,Eastern,Eastern,10097282,megawatthours
+2023-03-31,US48,United States Lower 48,NG,Net generation,Mountain,Mountain,10072792,megawatthours
+2023-03-31,US48,United States Lower 48,NG,Net generation,Pacific,Pacific,10056210,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,NG,Net generation,Arizona,Arizona,95546,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,NG,Net generation,Central,Central,95629,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,NG,Net generation,Eastern,Eastern,95587,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,NG,Net generation,Mountain,Mountain,95634,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,NG,Net generation,Pacific,Pacific,95546,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,NG,Net generation,Arizona,Arizona,19347,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,NG,Net generation,Central,Central,19321,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,NG,Net generation,Eastern,Eastern,19272,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,NG,Net generation,Mountain,Mountain,19334,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,NG,Net generation,Pacific,Pacific,19347,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,NG,Net generation,Arizona,Arizona,1550,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,NG,Net generation,Central,Central,1555,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,NG,Net generation,Eastern,Eastern,1553,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,NG,Net generation,Mountain,Mountain,1552,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,NG,Net generation,Pacific,Pacific,1550,megawatthours
+2023-03-31,WWA,"NaturEner Wind Watch, LLC",NG,Net generation,Arizona,Arizona,1807,megawatthours
+2023-03-31,WWA,"NaturEner Wind Watch, LLC",NG,Net generation,Central,Central,1655,megawatthours
+2023-03-31,WWA,"NaturEner Wind Watch, LLC",NG,Net generation,Eastern,Eastern,1549,megawatthours
+2023-03-31,WWA,"NaturEner Wind Watch, LLC",NG,Net generation,Mountain,Mountain,1731,megawatthours
+2023-03-31,WWA,"NaturEner Wind Watch, LLC",NG,Net generation,Pacific,Pacific,1807,megawatthours
+2023-03-31,YAD,"Alcoa Power Generating, Inc. - Yadkin Division",NG,Net generation,Arizona,Arizona,2042,megawatthours
+2023-03-31,YAD,"Alcoa Power Generating, Inc. - Yadkin Division",NG,Net generation,Central,Central,2042,megawatthours
+2023-03-31,YAD,"Alcoa Power Generating, Inc. - Yadkin Division",NG,Net generation,Eastern,Eastern,2042,megawatthours
+2023-03-31,YAD,"Alcoa Power Generating, Inc. - Yadkin Division",NG,Net generation,Mountain,Mountain,2042,megawatthours
+2023-03-31,YAD,"Alcoa Power Generating, Inc. - Yadkin Division",NG,Net generation,Pacific,Pacific,2042,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,TI,Total interchange,Arizona,Arizona,-7180,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,TI,Total interchange,Central,Central,-6608,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,TI,Total interchange,Eastern,Eastern,-6434,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,TI,Total interchange,Mountain,Mountain,-6830,megawatthours
+2023-03-31,TEPC,Tucson Electric Power,TI,Total interchange,Pacific,Pacific,-7180,megawatthours
+2023-03-31,TEX,Texas,TI,Total interchange,Arizona,Arizona,6498,megawatthours
+2023-03-31,TEX,Texas,TI,Total interchange,Central,Central,6095,megawatthours
+2023-03-31,TEX,Texas,TI,Total interchange,Eastern,Eastern,5912,megawatthours
+2023-03-31,TEX,Texas,TI,Total interchange,Mountain,Mountain,6249,megawatthours
+2023-03-31,TEX,Texas,TI,Total interchange,Pacific,Pacific,6498,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,TI,Total interchange,Arizona,Arizona,1848,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,TI,Total interchange,Central,Central,1720,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,TI,Total interchange,Eastern,Eastern,1585,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,TI,Total interchange,Mountain,Mountain,1785,megawatthours
+2023-03-31,TIDC,Turlock Irrigation District,TI,Total interchange,Pacific,Pacific,1848,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",TI,Total interchange,Arizona,Arizona,-10219,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",TI,Total interchange,Central,Central,-10178,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",TI,Total interchange,Eastern,Eastern,-10163,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",TI,Total interchange,Mountain,Mountain,-10189,megawatthours
+2023-03-31,TPWR,"City of Tacoma, Department of Public Utilities, Light Division",TI,Total interchange,Pacific,Pacific,-10219,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,TI,Total interchange,Mountain,Mountain,-6317,megawatthours
+2023-03-31,TEN,Tennessee,TI,Total interchange,Pacific,Pacific,-5835,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,TI,Total interchange,Eastern,Eastern,-7259,megawatthours
+2023-03-31,TEN,Tennessee,TI,Total interchange,Arizona,Arizona,-5835,megawatthours
+2023-03-31,TEN,Tennessee,TI,Total interchange,Central,Central,-6753,megawatthours
+2023-03-31,TEN,Tennessee,TI,Total interchange,Eastern,Eastern,-7259,megawatthours
+2023-03-31,TEN,Tennessee,TI,Total interchange,Mountain,Mountain,-6317,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,TI,Total interchange,Arizona,Arizona,-5835,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,TI,Total interchange,Central,Central,-6753,megawatthours
+2023-03-31,TVA,Tennessee Valley Authority,TI,Total interchange,Pacific,Pacific,-5835,megawatthours
+2023-03-31,US48,United States Lower 48,TI,Total interchange,Arizona,Arizona,-25930,megawatthours
+2023-03-31,US48,United States Lower 48,TI,Total interchange,Central,Central,-25939,megawatthours
+2023-03-31,US48,United States Lower 48,TI,Total interchange,Eastern,Eastern,-26339,megawatthours
+2023-03-31,US48,United States Lower 48,TI,Total interchange,Mountain,Mountain,-25787,megawatthours
+2023-03-31,US48,United States Lower 48,TI,Total interchange,Pacific,Pacific,-25930,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,TI,Total interchange,Arizona,Arizona,10034,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,TI,Total interchange,Central,Central,10026,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,TI,Total interchange,Eastern,Eastern,9926,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,TI,Total interchange,Mountain,Mountain,10049,megawatthours
+2023-03-31,WACM,Western Area Power Administration - Rocky Mountain Region,TI,Total interchange,Pacific,Pacific,10034,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,TI,Total interchange,Arizona,Arizona,159,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,TI,Total interchange,Central,Central,234,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,TI,Total interchange,Eastern,Eastern,239,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,TI,Total interchange,Mountain,Mountain,193,megawatthours
+2023-03-31,WALC,Western Area Power Administration - Desert Southwest Region,TI,Total interchange,Pacific,Pacific,159,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,TI,Total interchange,Arizona,Arizona,-669,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,TI,Total interchange,Central,Central,-685,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,TI,Total interchange,Eastern,Eastern,-699,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,TI,Total interchange,Mountain,Mountain,-672,megawatthours
+2023-03-31,WAUW,Western Area Power Administration - Upper Great Plains West,TI,Total interchange,Pacific,Pacific,-669,megawatthours
+2023-03-31,WWA,"NaturEner Wind Watch, LLC",TI,Total interchange,Arizona,Arizona,1807,megawatthours
+2023-03-31,WWA,"NaturEner Wind Watch, LLC",TI,Total interchange,Central,Central,1655,megawatthours
+2023-03-31,WWA,"NaturEner Wind Watch, LLC",TI,Total interchange,Eastern,Eastern,1549,megawatthours
+2023-03-31,WWA,"NaturEner Wind Watch, LLC",TI,Total interchange,Mountain,Mountain,1731,megawatthours
+2023-03-31,WWA,"NaturEner Wind Watch, LLC",TI,Total interchange,Pacific,Pacific,1807,megawatthours
+2023-03-31,YAD,"Alcoa Power Generating, Inc. - Yadkin Division",TI,Total interchange,Arizona,Arizona,1992,megawatthours
+2023-03-31,YAD,"Alcoa Power Generating, Inc. - Yadkin Division",TI,Total interchange,Central,Central,1990,megawatthours
+2023-03-31,YAD,"Alcoa Power Generating, Inc. - Yadkin Division",TI,Total interchange,Eastern,Eastern,1992,megawatthours
+2023-03-31,YAD,"Alcoa Power Generating, Inc. - Yadkin Division",TI,Total interchange,Mountain,Mountain,1990,megawatthours
+2023-03-31,YAD,"Alcoa Power Generating, Inc. - Yadkin Division",TI,Total interchange,Pacific,Pacific,1992,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,TI,Total interchange,Central,Central,-16878,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,TI,Total interchange,Eastern,Eastern,-17083,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,TI,Total interchange,Mountain,Mountain,-16868,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,TI,Total interchange,Pacific,Pacific,-16886,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",TI,Total interchange,Arizona,Arizona,5513,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",TI,Total interchange,Central,Central,5228,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",TI,Total interchange,Eastern,Eastern,5103,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",TI,Total interchange,Mountain,Mountain,5349,megawatthours
+2023-03-31,SCEG,"Dominion Energy South Carolina, Inc.",TI,Total interchange,Pacific,Pacific,5513,megawatthours
+2023-03-31,SCL,Seattle City Light,TI,Total interchange,Arizona,Arizona,-16844,megawatthours
+2023-03-31,SCL,Seattle City Light,TI,Total interchange,Central,Central,-16822,megawatthours
+2023-03-31,SCL,Seattle City Light,TI,Total interchange,Eastern,Eastern,-16757,megawatthours
+2023-03-31,SCL,Seattle City Light,TI,Total interchange,Mountain,Mountain,-16796,megawatthours
+2023-03-31,SCL,Seattle City Light,TI,Total interchange,Pacific,Pacific,-16844,megawatthours
+2023-03-31,SE,Southeast,TI,Total interchange,Arizona,Arizona,19344,megawatthours
+2023-03-31,SE,Southeast,TI,Total interchange,Central,Central,20079,megawatthours
+2023-03-31,SE,Southeast,TI,Total interchange,Eastern,Eastern,19713,megawatthours
+2023-03-31,SE,Southeast,TI,Total interchange,Mountain,Mountain,19727,megawatthours
+2023-03-31,SE,Southeast,TI,Total interchange,Pacific,Pacific,19344,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,TI,Total interchange,Arizona,Arizona,31014,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,TI,Total interchange,Central,Central,30749,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,TI,Total interchange,Eastern,Eastern,30478,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,TI,Total interchange,Mountain,Mountain,30896,megawatthours
+2023-03-31,SEC,Seminole Electric Cooperative,TI,Total interchange,Pacific,Pacific,31014,megawatthours
+2023-03-31,SEPA,Southeastern Power Administration,TI,Total interchange,Arizona,Arizona,5105,megawatthours
+2023-03-31,SEPA,Southeastern Power Administration,TI,Total interchange,Central,Central,5104,megawatthours
+2023-03-31,SEPA,Southeastern Power Administration,TI,Total interchange,Eastern,Eastern,5104,megawatthours
+2023-03-31,SEPA,Southeastern Power Administration,TI,Total interchange,Mountain,Mountain,5102,megawatthours
+2023-03-31,SEPA,Southeastern Power Administration,TI,Total interchange,Pacific,Pacific,5105,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",TI,Total interchange,Arizona,Arizona,14239,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",TI,Total interchange,Central,Central,14975,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",TI,Total interchange,Eastern,Eastern,14609,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",TI,Total interchange,Mountain,Mountain,14625,megawatthours
+2023-03-31,SOCO,"Southern Company Services, Inc. - Trans",TI,Total interchange,Pacific,Pacific,14239,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,TI,Total interchange,Arizona,Arizona,19572,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,TI,Total interchange,Central,Central,19393,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,TI,Total interchange,Eastern,Eastern,19319,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,TI,Total interchange,Mountain,Mountain,19470,megawatthours
+2023-03-31,SPA,Southwestern Power Administration,TI,Total interchange,Pacific,Pacific,19572,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,TI,Total interchange,Arizona,Arizona,87116,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,TI,Total interchange,Central,Central,85758,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,TI,Total interchange,Eastern,Eastern,85345,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,TI,Total interchange,Mountain,Mountain,86205,megawatthours
+2023-03-31,SRP,Salt River Project Agricultural Improvement and Power District,TI,Total interchange,Pacific,Pacific,87116,megawatthours
+2023-03-31,SW,Southwest,TI,Total interchange,Arizona,Arizona,92527,megawatthours
+2023-03-31,SW,Southwest,TI,Total interchange,Central,Central,92104,megawatthours
+2023-03-31,SW,Southwest,TI,Total interchange,Eastern,Eastern,91813,megawatthours
+2023-03-31,SW,Southwest,TI,Total interchange,Mountain,Mountain,92109,megawatthours
+2023-03-31,SW,Southwest,TI,Total interchange,Pacific,Pacific,92527,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,TI,Total interchange,Arizona,Arizona,27036,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,TI,Total interchange,Central,Central,28811,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,TI,Total interchange,Eastern,Eastern,29295,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,TI,Total interchange,Mountain,Mountain,28215,megawatthours
+2023-03-31,SWPP,Southwest Power Pool,TI,Total interchange,Pacific,Pacific,27036,megawatthours
+2023-03-31,TAL,City of Tallahassee,TI,Total interchange,Arizona,Arizona,4,megawatthours
+2023-03-31,TAL,City of Tallahassee,TI,Total interchange,Central,Central,3,megawatthours
+2023-03-31,TAL,City of Tallahassee,TI,Total interchange,Eastern,Eastern,4,megawatthours
+2023-03-31,TAL,City of Tallahassee,TI,Total interchange,Mountain,Mountain,3,megawatthours
+2023-03-31,TAL,City of Tallahassee,TI,Total interchange,Pacific,Pacific,4,megawatthours
+2023-03-31,TEC,Tampa Electric Company,TI,Total interchange,Arizona,Arizona,-525,megawatthours
+2023-03-31,TEC,Tampa Electric Company,TI,Total interchange,Central,Central,-495,megawatthours
+2023-03-31,TEC,Tampa Electric Company,TI,Total interchange,Eastern,Eastern,-481,megawatthours
+2023-03-31,TEC,Tampa Electric Company,TI,Total interchange,Mountain,Mountain,-516,megawatthours
+2023-03-31,TEC,Tampa Electric Company,TI,Total interchange,Pacific,Pacific,-525,megawatthours
+2023-03-31,NE,New England,TI,Total interchange,Eastern,Eastern,-21131,megawatthours
+2023-03-31,NE,New England,TI,Total interchange,Mountain,Mountain,-22026,megawatthours
+2023-03-31,NE,New England,TI,Total interchange,Pacific,Pacific,-22159,megawatthours
+2023-03-31,NEVP,Nevada Power Company,TI,Total interchange,Arizona,Arizona,-9686,megawatthours
+2023-03-31,NEVP,Nevada Power Company,TI,Total interchange,Central,Central,-10267,megawatthours
+2023-03-31,NEVP,Nevada Power Company,TI,Total interchange,Eastern,Eastern,-10357,megawatthours
+2023-03-31,NEVP,Nevada Power Company,TI,Total interchange,Mountain,Mountain,-9996,megawatthours
+2023-03-31,NEVP,Nevada Power Company,TI,Total interchange,Pacific,Pacific,-9686,megawatthours
+2023-03-31,NW,Northwest,TI,Total interchange,Arizona,Arizona,108692,megawatthours
+2023-03-31,NW,Northwest,TI,Total interchange,Central,Central,108999,megawatthours
+2023-03-31,NW,Northwest,TI,Total interchange,Eastern,Eastern,109916,megawatthours
+2023-03-31,NW,Northwest,TI,Total interchange,Mountain,Mountain,109159,megawatthours
+2023-03-31,NW,Northwest,TI,Total interchange,Pacific,Pacific,108692,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,TI,Total interchange,Arizona,Arizona,23210,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,TI,Total interchange,Central,Central,22234,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,TI,Total interchange,Eastern,Eastern,21827,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,TI,Total interchange,Mountain,Mountain,22711,megawatthours
+2023-03-31,NWMT,NorthWestern Corporation,TI,Total interchange,Pacific,Pacific,23210,megawatthours
+2023-03-31,NY,New York,TI,Total interchange,Arizona,Arizona,-79018,megawatthours
+2023-03-31,NY,New York,TI,Total interchange,Central,Central,-81437,megawatthours
+2023-03-31,NY,New York,TI,Total interchange,Eastern,Eastern,-82966,megawatthours
+2023-03-31,NY,New York,TI,Total interchange,Mountain,Mountain,-80154,megawatthours
+2023-03-31,NY,New York,TI,Total interchange,Pacific,Pacific,-79018,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,TI,Total interchange,Arizona,Arizona,-79018,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,TI,Total interchange,Central,Central,-81437,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,TI,Total interchange,Eastern,Eastern,-82966,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,TI,Total interchange,Mountain,Mountain,-80154,megawatthours
+2023-03-31,NYIS,New York Independent System Operator,TI,Total interchange,Pacific,Pacific,-79018,megawatthours
+2023-03-31,PACE,PacifiCorp East,TI,Total interchange,Arizona,Arizona,1012,megawatthours
+2023-03-31,PACE,PacifiCorp East,TI,Total interchange,Central,Central,442,megawatthours
+2023-03-31,PACE,PacifiCorp East,TI,Total interchange,Eastern,Eastern,-88,megawatthours
+2023-03-31,PACE,PacifiCorp East,TI,Total interchange,Mountain,Mountain,931,megawatthours
+2023-03-31,PACE,PacifiCorp East,TI,Total interchange,Pacific,Pacific,1012,megawatthours
+2023-03-31,PACW,PacifiCorp West,TI,Total interchange,Arizona,Arizona,-40933,megawatthours
+2023-03-31,PACW,PacifiCorp West,TI,Total interchange,Central,Central,-40756,megawatthours
+2023-03-31,PACW,PacifiCorp West,TI,Total interchange,Eastern,Eastern,-40592,megawatthours
+2023-03-31,PACW,PacifiCorp West,TI,Total interchange,Mountain,Mountain,-40884,megawatthours
+2023-03-31,PACW,PacifiCorp West,TI,Total interchange,Pacific,Pacific,-40933,megawatthours
+2023-03-31,PGE,Portland General Electric Company,TI,Total interchange,Arizona,Arizona,-46609,megawatthours
+2023-03-31,PGE,Portland General Electric Company,TI,Total interchange,Central,Central,-46360,megawatthours
+2023-03-31,PGE,Portland General Electric Company,TI,Total interchange,Eastern,Eastern,-46250,megawatthours
+2023-03-31,PGE,Portland General Electric Company,TI,Total interchange,Mountain,Mountain,-46469,megawatthours
+2023-03-31,PGE,Portland General Electric Company,TI,Total interchange,Pacific,Pacific,-46609,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",TI,Total interchange,Arizona,Arizona,74223,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",TI,Total interchange,Central,Central,76411,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",TI,Total interchange,Eastern,Eastern,77902,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",TI,Total interchange,Mountain,Mountain,75326,megawatthours
+2023-03-31,PJM,"PJM Interconnection, LLC",TI,Total interchange,Pacific,Pacific,74223,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,TI,Total interchange,Arizona,Arizona,19445,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,TI,Total interchange,Central,Central,19606,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,TI,Total interchange,Eastern,Eastern,19653,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,TI,Total interchange,Mountain,Mountain,19498,megawatthours
+2023-03-31,PNM,Public Service Company of New Mexico,TI,Total interchange,Pacific,Pacific,19445,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,TI,Total interchange,Arizona,Arizona,6509,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,TI,Total interchange,Central,Central,6332,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,TI,Total interchange,Eastern,Eastern,6422,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,TI,Total interchange,Mountain,Mountain,6432,megawatthours
+2023-03-31,PSCO,Public Service Company of Colorado,TI,Total interchange,Pacific,Pacific,6509,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,Arizona,Arizona,-43917,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,Central,Central,-43418,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,Eastern,Eastern,-43228,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,Mountain,Mountain,-43692,megawatthours
+2023-03-31,PSEI,"Puget Sound Energy, Inc.",TI,Total interchange,Pacific,Pacific,-43917,megawatthours
+2023-03-31,SC,South Carolina Public Service Authority,TI,Total interchange,Arizona,Arizona,-16886,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,TI,Total interchange,Mountain,Mountain,-429,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,TI,Total interchange,Pacific,Pacific,-433,megawatthours
+2023-03-31,GWA,"NaturEner Power Watch, LLC",TI,Total interchange,Arizona,Arizona,2042,megawatthours
+2023-03-31,GWA,"NaturEner Power Watch, LLC",TI,Total interchange,Central,Central,1778,megawatthours
+2023-03-31,GWA,"NaturEner Power Watch, LLC",TI,Total interchange,Eastern,Eastern,1626,megawatthours
+2023-03-31,GWA,"NaturEner Power Watch, LLC",TI,Total interchange,Mountain,Mountain,1910,megawatthours
+2023-03-31,GWA,"NaturEner Power Watch, LLC",TI,Total interchange,Pacific,Pacific,2042,megawatthours
+2023-03-31,HGMA,"New Harquahala Generating Company, LLC",TI,Total interchange,Arizona,Arizona,-31,megawatthours
+2023-03-31,HGMA,"New Harquahala Generating Company, LLC",TI,Total interchange,Central,Central,-30,megawatthours
+2023-03-31,HGMA,"New Harquahala Generating Company, LLC",TI,Total interchange,Eastern,Eastern,-28,megawatthours
+2023-03-31,HGMA,"New Harquahala Generating Company, LLC",TI,Total interchange,Mountain,Mountain,-31,megawatthours
+2023-03-31,HGMA,"New Harquahala Generating Company, LLC",TI,Total interchange,Pacific,Pacific,-31,megawatthours
+2023-03-31,HST,City of Homestead,TI,Total interchange,Arizona,Arizona,-1606,megawatthours
+2023-03-31,HST,City of Homestead,TI,Total interchange,Central,Central,-1603,megawatthours
+2023-03-31,HST,City of Homestead,TI,Total interchange,Eastern,Eastern,-1600,megawatthours
+2023-03-31,HST,City of Homestead,TI,Total interchange,Mountain,Mountain,-1605,megawatthours
+2023-03-31,HST,City of Homestead,TI,Total interchange,Pacific,Pacific,-1606,megawatthours
+2023-03-31,IID,Imperial Irrigation District,TI,Total interchange,Arizona,Arizona,8574,megawatthours
+2023-03-31,IID,Imperial Irrigation District,TI,Total interchange,Central,Central,8600,megawatthours
+2023-03-31,IID,Imperial Irrigation District,TI,Total interchange,Eastern,Eastern,8613,megawatthours
+2023-03-31,IID,Imperial Irrigation District,TI,Total interchange,Mountain,Mountain,8575,megawatthours
+2023-03-31,IID,Imperial Irrigation District,TI,Total interchange,Pacific,Pacific,8574,megawatthours
+2023-03-31,IPCO,Idaho Power Company,TI,Total interchange,Arizona,Arizona,-12348,megawatthours
+2023-03-31,IPCO,Idaho Power Company,TI,Total interchange,Central,Central,-12399,megawatthours
+2023-03-31,IPCO,Idaho Power Company,TI,Total interchange,Eastern,Eastern,-12198,megawatthours
+2023-03-31,IPCO,Idaho Power Company,TI,Total interchange,Mountain,Mountain,-12449,megawatthours
+2023-03-31,IPCO,Idaho Power Company,TI,Total interchange,Pacific,Pacific,-12348,megawatthours
+2023-03-31,ISNE,ISO New England,TI,Total interchange,Arizona,Arizona,-22159,megawatthours
+2023-03-31,ISNE,ISO New England,TI,Total interchange,Central,Central,-21653,megawatthours
+2023-03-31,ISNE,ISO New England,TI,Total interchange,Eastern,Eastern,-21131,megawatthours
+2023-03-31,ISNE,ISO New England,TI,Total interchange,Mountain,Mountain,-22026,megawatthours
+2023-03-31,ISNE,ISO New England,TI,Total interchange,Pacific,Pacific,-22159,megawatthours
+2023-03-31,JEA,JEA,TI,Total interchange,Arizona,Arizona,-7575,megawatthours
+2023-03-31,JEA,JEA,TI,Total interchange,Central,Central,-7187,megawatthours
+2023-03-31,JEA,JEA,TI,Total interchange,Eastern,Eastern,-7086,megawatthours
+2023-03-31,JEA,JEA,TI,Total interchange,Mountain,Mountain,-7428,megawatthours
+2023-03-31,JEA,JEA,TI,Total interchange,Pacific,Pacific,-7575,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,TI,Total interchange,Arizona,Arizona,-21753,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,TI,Total interchange,Central,Central,-21580,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,TI,Total interchange,Eastern,Eastern,-21654,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,TI,Total interchange,Mountain,Mountain,-21558,megawatthours
+2023-03-31,LDWP,Los Angeles Department of Water and Power,TI,Total interchange,Pacific,Pacific,-21753,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,TI,Total interchange,Arizona,Arizona,-13599,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,TI,Total interchange,Central,Central,-13462,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,TI,Total interchange,Eastern,Eastern,-13431,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,TI,Total interchange,Mountain,Mountain,-13423,megawatthours
+2023-03-31,LGEE,Louisville Gas and Electric Company and Kentucky Utilities Company,TI,Total interchange,Pacific,Pacific,-13599,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,TI,Total interchange,Arizona,Arizona,74223,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,TI,Total interchange,Central,Central,76411,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,TI,Total interchange,Eastern,Eastern,77902,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,TI,Total interchange,Mountain,Mountain,75326,megawatthours
+2023-03-31,MIDA,Mid-Atlantic,TI,Total interchange,Pacific,Pacific,74223,megawatthours
+2023-03-31,MIDW,Midwest,TI,Total interchange,Arizona,Arizona,-103178,megawatthours
+2023-03-31,MIDW,Midwest,TI,Total interchange,Central,Central,-104466,megawatthours
+2023-03-31,MIDW,Midwest,TI,Total interchange,Eastern,Eastern,-104805,megawatthours
+2023-03-31,MIDW,Midwest,TI,Total interchange,Mountain,Mountain,-104002,megawatthours
+2023-03-31,MIDW,Midwest,TI,Total interchange,Pacific,Pacific,-103178,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",TI,Total interchange,Arizona,Arizona,-83087,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",TI,Total interchange,Central,Central,-84378,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",TI,Total interchange,Eastern,Eastern,-84391,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",TI,Total interchange,Mountain,Mountain,-84125,megawatthours
+2023-03-31,MISO,"Midcontinent Independent System Operator, Inc.",TI,Total interchange,Pacific,Pacific,-83087,megawatthours
+2023-03-31,NE,New England,TI,Total interchange,Arizona,Arizona,-22159,megawatthours
+2023-03-31,NE,New England,TI,Total interchange,Central,Central,-21653,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,TI,Total interchange,Pacific,Pacific,-2221,megawatthours
+2023-03-31,DEAA,"Arlington Valley, LLC",TI,Total interchange,Arizona,Arizona,10763,megawatthours
+2023-03-31,DEAA,"Arlington Valley, LLC",TI,Total interchange,Central,Central,10860,megawatthours
+2023-03-31,DEAA,"Arlington Valley, LLC",TI,Total interchange,Eastern,Eastern,10864,megawatthours
+2023-03-31,DEAA,"Arlington Valley, LLC",TI,Total interchange,Mountain,Mountain,10858,megawatthours
+2023-03-31,DEAA,"Arlington Valley, LLC",TI,Total interchange,Pacific,Pacific,10763,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,TI,Total interchange,Arizona,Arizona,1705,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,TI,Total interchange,Central,Central,1820,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,TI,Total interchange,Eastern,Eastern,1887,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,TI,Total interchange,Mountain,Mountain,1785,megawatthours
+2023-03-31,DOPD,PUD No. 1 of Douglas County,TI,Total interchange,Pacific,Pacific,1705,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,TI,Total interchange,Arizona,Arizona,9531,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,TI,Total interchange,Central,Central,8294,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,TI,Total interchange,Eastern,Eastern,7590,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,TI,Total interchange,Mountain,Mountain,9032,megawatthours
+2023-03-31,EPE,El Paso Electric Company,TI,Total interchange,Arizona,Arizona,-8691,megawatthours
+2023-03-31,EPE,El Paso Electric Company,TI,Total interchange,Central,Central,-8672,megawatthours
+2023-03-31,EPE,El Paso Electric Company,TI,Total interchange,Eastern,Eastern,-8696,megawatthours
+2023-03-31,EPE,El Paso Electric Company,TI,Total interchange,Mountain,Mountain,-8662,megawatthours
+2023-03-31,EPE,El Paso Electric Company,TI,Total interchange,Pacific,Pacific,-8691,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",TI,Total interchange,Arizona,Arizona,6498,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",TI,Total interchange,Central,Central,6095,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",TI,Total interchange,Eastern,Eastern,5912,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",TI,Total interchange,Mountain,Mountain,6249,megawatthours
+2023-03-31,ERCO,"Electric Reliability Council of Texas, Inc.",TI,Total interchange,Pacific,Pacific,6498,megawatthours
+2023-03-31,DUK,Duke Energy Carolinas,TI,Total interchange,Pacific,Pacific,9531,megawatthours
+2023-03-31,FLA,Florida,TI,Total interchange,Arizona,Arizona,-15690,megawatthours
+2023-03-31,FLA,Florida,TI,Total interchange,Central,Central,-14709,megawatthours
+2023-03-31,FLA,Florida,TI,Total interchange,Eastern,Eastern,-14470,megawatthours
+2023-03-31,FLA,Florida,TI,Total interchange,Mountain,Mountain,-15193,megawatthours
+2023-03-31,FLA,Florida,TI,Total interchange,Pacific,Pacific,-15690,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,TI,Total interchange,Arizona,Arizona,-5152,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,TI,Total interchange,Central,Central,-5200,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,TI,Total interchange,Eastern,Eastern,-5261,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,TI,Total interchange,Mountain,Mountain,-5171,megawatthours
+2023-03-31,FMPP,Florida Municipal Power Pool,TI,Total interchange,Pacific,Pacific,-5152,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",TI,Total interchange,Arizona,Arizona,-36696,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",TI,Total interchange,Central,Central,-36595,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",TI,Total interchange,Eastern,Eastern,-36411,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",TI,Total interchange,Mountain,Mountain,-36667,megawatthours
+2023-03-31,FPC,"Duke Energy Florida, Inc.",TI,Total interchange,Pacific,Pacific,-36696,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,TI,Total interchange,Arizona,Arizona,5279,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,TI,Total interchange,Central,Central,6052,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,TI,Total interchange,Eastern,Eastern,6324,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,TI,Total interchange,Mountain,Mountain,5724,megawatthours
+2023-03-31,FPL,Florida Power & Light Co.,TI,Total interchange,Pacific,Pacific,5279,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",TI,Total interchange,Arizona,Arizona,-727,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",TI,Total interchange,Central,Central,-747,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",TI,Total interchange,Eastern,Eastern,-769,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",TI,Total interchange,Mountain,Mountain,-734,megawatthours
+2023-03-31,GCPD,"Public Utility District No. 2 of Grant County, Washington",TI,Total interchange,Pacific,Pacific,-727,megawatthours
+2023-03-31,GRID,"Gridforce Energy Management, LLC",TI,Total interchange,Arizona,Arizona,44871,megawatthours
+2023-03-31,GRID,"Gridforce Energy Management, LLC",TI,Total interchange,Central,Central,44193,megawatthours
+2023-03-31,GRID,"Gridforce Energy Management, LLC",TI,Total interchange,Eastern,Eastern,43840,megawatthours
+2023-03-31,GRID,"Gridforce Energy Management, LLC",TI,Total interchange,Mountain,Mountain,44542,megawatthours
+2023-03-31,GRID,"Gridforce Energy Management, LLC",TI,Total interchange,Pacific,Pacific,44871,megawatthours
+2023-03-31,GRIF,"Griffith Energy, LLC",TI,Total interchange,Arizona,Arizona,10304,megawatthours
+2023-03-31,GRIF,"Griffith Energy, LLC",TI,Total interchange,Central,Central,10316,megawatthours
+2023-03-31,GRIF,"Griffith Energy, LLC",TI,Total interchange,Eastern,Eastern,10327,megawatthours
+2023-03-31,GRIF,"Griffith Energy, LLC",TI,Total interchange,Mountain,Mountain,10306,megawatthours
+2023-03-31,GRIF,"Griffith Energy, LLC",TI,Total interchange,Pacific,Pacific,10304,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,TI,Total interchange,Arizona,Arizona,-433,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,TI,Total interchange,Central,Central,-433,megawatthours
+2023-03-31,GVL,Gainesville Regional Utilities,TI,Total interchange,Eastern,Eastern,-437,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",TI,Total interchange,Eastern,Eastern,-6983,megawatthours
+2023-03-31,AVRN,"Avangrid Renewables, LLC",TI,Total interchange,Pacific,Pacific,29379,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",TI,Total interchange,Arizona,Arizona,-6492,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",TI,Total interchange,Central,Central,-6626,megawatthours
+2023-03-31,AVA,Avista Corporation,TI,Total interchange,Pacific,Pacific,-12396,megawatthours
+2023-03-31,AVRN,"Avangrid Renewables, LLC",TI,Total interchange,Mountain,Mountain,30222,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",TI,Total interchange,Mountain,Mountain,-6454,megawatthours
+2023-03-31,AECI,"Associated Electric Cooperative, Inc.",TI,Total interchange,Pacific,Pacific,-6492,megawatthours
+2023-03-31,AVRN,"Avangrid Renewables, LLC",TI,Total interchange,Eastern,Eastern,32020,megawatthours
+2023-03-31,AVA,Avista Corporation,TI,Total interchange,Central,Central,-12548,megawatthours
+2023-03-31,AVA,Avista Corporation,TI,Total interchange,Mountain,Mountain,-12463,megawatthours
+2023-03-31,AVA,Avista Corporation,TI,Total interchange,Eastern,Eastern,-12689,megawatthours
+2023-03-31,AVRN,"Avangrid Renewables, LLC",TI,Total interchange,Central,Central,30967,megawatthours
+2023-03-31,AVA,Avista Corporation,TI,Total interchange,Arizona,Arizona,-12396,megawatthours
+2023-03-31,AVRN,"Avangrid Renewables, LLC",TI,Total interchange,Arizona,Arizona,29379,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,TI,Total interchange,Arizona,Arizona,-19358,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,TI,Total interchange,Eastern,Eastern,-19457,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,TI,Total interchange,Mountain,Mountain,-19428,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,TI,Total interchange,Pacific,Pacific,-19358,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,TI,Total interchange,Arizona,Arizona,-6485,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,TI,Total interchange,Central,Central,-6632,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,TI,Total interchange,Eastern,Eastern,-6703,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,TI,Total interchange,Mountain,Mountain,-6593,megawatthours
+2023-03-31,BANC,Balancing Authority of Northern California,TI,Total interchange,Pacific,Pacific,-6485,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,TI,Total interchange,Arizona,Arizona,172228,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,TI,Total interchange,Central,Central,173584,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,TI,Total interchange,Eastern,Eastern,174955,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,TI,Total interchange,Pacific,Pacific,172228,megawatthours
+2023-03-31,AZPS,Arizona Public Service Company,TI,Total interchange,Central,Central,-19360,megawatthours
+2023-03-31,BPAT,Bonneville Power Administration,TI,Total interchange,Mountain,Mountain,172897,megawatthours
+2023-03-31,CAL,California,TI,Total interchange,Arizona,Arizona,-148997,megawatthours
+2023-03-31,CAL,California,TI,Total interchange,Central,Central,-149517,megawatthours
+2023-03-31,CAL,California,TI,Total interchange,Eastern,Eastern,-149952,megawatthours
+2023-03-31,CAL,California,TI,Total interchange,Mountain,Mountain,-149239,megawatthours
+2023-03-31,CAL,California,TI,Total interchange,Pacific,Pacific,-148997,megawatthours
+2023-03-31,CAR,Carolinas,TI,Total interchange,Arizona,Arizona,1055,megawatthours
+2023-03-31,CAR,Carolinas,TI,Total interchange,Central,Central,704,megawatthours
+2023-03-31,CAR,Carolinas,TI,Total interchange,Eastern,Eastern,374,megawatthours
+2023-03-31,CENT,Central,TI,Total interchange,Central,Central,48204,megawatthours
+2023-03-31,CENT,Central,TI,Total interchange,Eastern,Eastern,48614,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,TI,Total interchange,Arizona,Arizona,10243,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,TI,Total interchange,Central,Central,10148,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,TI,Total interchange,Eastern,Eastern,9654,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,TI,Total interchange,Mountain,Mountain,10293,megawatthours
+2023-03-31,CHPD,Public Utility District No. 1 of Chelan County,TI,Total interchange,Pacific,Pacific,10243,megawatthours
+2023-03-31,CISO,California Independent System Operator,TI,Total interchange,Arizona,Arizona,-131181,megawatthours
+2023-03-31,CISO,California Independent System Operator,TI,Total interchange,Pacific,Pacific,-131181,megawatthours
+2023-03-31,CENT,Central,TI,Total interchange,Arizona,Arizona,46608,megawatthours
+2023-03-31,CISO,California Independent System Operator,TI,Total interchange,Mountain,Mountain,-131448,megawatthours
+2023-03-31,CENT,Central,TI,Total interchange,Mountain,Mountain,47685,megawatthours
+2023-03-31,CENT,Central,TI,Total interchange,Pacific,Pacific,46608,megawatthours
+2023-03-31,CAR,Carolinas,TI,Total interchange,Mountain,Mountain,889,megawatthours
+2023-03-31,CISO,California Independent System Operator,TI,Total interchange,Central,Central,-131625,megawatthours
+2023-03-31,CAR,Carolinas,TI,Total interchange,Pacific,Pacific,1055,megawatthours
+2023-03-31,CISO,California Independent System Operator,TI,Total interchange,Eastern,Eastern,-131793,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,TI,Total interchange,Arizona,Arizona,3126,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,TI,Total interchange,Central,Central,3981,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,TI,Total interchange,Eastern,Eastern,4543,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,TI,Total interchange,Mountain,Mountain,3455,megawatthours
+2023-03-31,CPLE,Duke Energy Progress East,TI,Total interchange,Pacific,Pacific,3126,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,TI,Total interchange,Arizona,Arizona,-2221,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,TI,Total interchange,Central,Central,-1911,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,TI,Total interchange,Eastern,Eastern,-1771,megawatthours
+2023-03-31,CPLW,Duke Energy Progress West,TI,Total interchange,Mountain,Mountain,-2069,megawatthours

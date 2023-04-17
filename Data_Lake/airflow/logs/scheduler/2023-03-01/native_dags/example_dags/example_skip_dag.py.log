@@ -1,0 +1,214 @@
+[2023-03-01T12:03:06.397+0100] {processor.py:153} INFO - Started process (PID=56228) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:03:06.401+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:03:06.401+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:06.401+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:03:06.451+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:03:07.412+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:07.411+0100] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2023-03-01T12:03:07.418+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:07.418+0100] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2023-03-01T12:03:07.422+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:07.422+0100] {manager.py:504} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2023-03-01T12:03:07.423+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:07.422+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:03:07.430+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:07.430+0100] {dag.py:2711} INFO - Creating ORM DAG for example_skip_dag
+[2023-03-01T12:03:07.436+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:07.436+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:03:07.436164+00:00, run_after=2023-03-01T11:03:07.436164+00:00
+[2023-03-01T12:03:07.448+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.052 seconds
+[2023-03-01T12:05:10.330+0100] {processor.py:153} INFO - Started process (PID=60419) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:05:10.334+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:05:10.334+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:05:10.334+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:05:10.377+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:05:11.229+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:05:11.228+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:05:11.243+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:05:11.242+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:05:11.242859+00:00, run_after=2023-03-01T11:05:11.242859+00:00
+[2023-03-01T12:05:11.255+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.925 seconds
+[2023-03-01T12:07:05.053+0100] {processor.py:153} INFO - Started process (PID=64610) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:07:05.057+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:07:05.057+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:07:05.057+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:07:05.106+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:07:06.300+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:07:06.300+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:07:06.313+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:07:06.313+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:07:06.313506+00:00, run_after=2023-03-01T11:07:06.313506+00:00
+[2023-03-01T12:07:06.326+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.273 seconds
+[2023-03-01T12:08:55.576+0100] {processor.py:153} INFO - Started process (PID=67761) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:08:55.580+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:08:55.581+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:08:55.580+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:08:55.627+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:08:56.492+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:08:56.491+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:08:56.503+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:08:56.503+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:08:56.503672+00:00, run_after=2023-03-01T11:08:56.503672+00:00
+[2023-03-01T12:08:56.515+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.940 seconds
+[2023-03-01T12:10:55.177+0100] {processor.py:153} INFO - Started process (PID=71977) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:10:55.181+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:10:55.181+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:10:55.181+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:10:55.245+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:10:56.610+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:10:56.609+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:10:56.635+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:10:56.635+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:10:56.635494+00:00, run_after=2023-03-01T11:10:56.635494+00:00
+[2023-03-01T12:10:56.712+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.536 seconds
+[2023-03-01T12:12:59.229+0100] {processor.py:153} INFO - Started process (PID=76736) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:12:59.234+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:12:59.234+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:12:59.234+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:12:59.289+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:13:00.226+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:13:00.226+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:13:00.240+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:13:00.240+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:13:00.240725+00:00, run_after=2023-03-01T11:13:00.240725+00:00
+[2023-03-01T12:13:00.254+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.026 seconds
+[2023-03-01T12:14:51.526+0100] {processor.py:153} INFO - Started process (PID=80469) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:14:51.530+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:14:51.530+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:14:51.530+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:14:51.573+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:14:52.432+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:14:52.432+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:14:52.444+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:14:52.444+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:14:52.444487+00:00, run_after=2023-03-01T11:14:52.444487+00:00
+[2023-03-01T12:14:52.456+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.930 seconds
+[2023-03-01T12:16:54.358+0100] {processor.py:153} INFO - Started process (PID=84635) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:16:54.362+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:16:54.362+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:16:54.362+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:16:54.409+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:16:55.294+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:16:55.294+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:16:55.308+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:16:55.308+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:16:55.308640+00:00, run_after=2023-03-01T11:16:55.308640+00:00
+[2023-03-01T12:16:55.323+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.966 seconds
+[2023-03-01T12:18:50.260+0100] {processor.py:153} INFO - Started process (PID=88848) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:18:50.265+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:18:50.266+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:18:50.266+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:18:50.313+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:18:51.228+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:18:51.228+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:18:51.242+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:18:51.242+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:18:51.242418+00:00, run_after=2023-03-01T11:18:51.242418+00:00
+[2023-03-01T12:18:51.256+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.996 seconds
+[2023-03-01T12:20:43.728+0100] {processor.py:153} INFO - Started process (PID=93079) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:20:43.732+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:20:43.733+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:20:43.733+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:20:43.781+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:20:44.688+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:20:44.688+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:20:44.701+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:20:44.701+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:20:44.700977+00:00, run_after=2023-03-01T11:20:44.700977+00:00
+[2023-03-01T12:20:44.714+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.987 seconds
+[2023-03-01T12:23:14.771+0100] {processor.py:153} INFO - Started process (PID=98411) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:23:14.775+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:23:14.775+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:23:14.775+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:23:14.828+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:23:16.197+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:23:16.197+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:23:16.222+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:23:16.222+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:23:16.221943+00:00, run_after=2023-03-01T11:23:16.221943+00:00
+[2023-03-01T12:23:16.246+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.475 seconds
+[2023-03-01T12:25:23.299+0100] {processor.py:153} INFO - Started process (PID=3026) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:25:23.305+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:25:23.305+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:25:23.305+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:25:23.360+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:25:24.300+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:25:24.300+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:25:24.313+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:25:24.313+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:25:24.312945+00:00, run_after=2023-03-01T11:25:24.312945+00:00
+[2023-03-01T12:25:24.324+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.026 seconds
+[2023-03-01T12:27:22.521+0100] {processor.py:153} INFO - Started process (PID=7263) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:27:22.525+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:27:22.525+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:27:22.525+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:27:22.577+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:27:23.502+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:27:23.502+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:27:23.516+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:27:23.516+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:27:23.516027+00:00, run_after=2023-03-01T11:27:23.516027+00:00
+[2023-03-01T12:27:23.529+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.009 seconds
+[2023-03-01T12:29:13.874+0100] {processor.py:153} INFO - Started process (PID=11472) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:29:13.878+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:29:13.878+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:29:13.878+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:29:13.930+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:29:14.792+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:29:14.792+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:29:14.804+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:29:14.804+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:29:14.804303+00:00, run_after=2023-03-01T11:29:14.804303+00:00
+[2023-03-01T12:29:14.816+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.943 seconds
+[2023-03-01T12:31:03.659+0100] {processor.py:153} INFO - Started process (PID=15687) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:31:03.662+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:31:03.663+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:31:03.663+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:31:03.708+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:31:04.567+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:31:04.567+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:31:04.579+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:31:04.579+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:31:04.579377+00:00, run_after=2023-03-01T11:31:04.579377+00:00
+[2023-03-01T12:31:04.592+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.934 seconds
+[2023-03-01T12:32:52.192+0100] {processor.py:153} INFO - Started process (PID=18937) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:32:52.196+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:32:52.197+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:32:52.197+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:32:52.241+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:32:53.256+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:32:53.256+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:32:53.269+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:32:53.269+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:32:53.269193+00:00, run_after=2023-03-01T11:32:53.269193+00:00
+[2023-03-01T12:32:53.283+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.091 seconds
+[2023-03-01T12:34:42.370+0100] {processor.py:153} INFO - Started process (PID=23162) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:34:42.373+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:34:42.374+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:34:42.373+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:34:42.420+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:34:43.295+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:34:43.295+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:34:43.307+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:34:43.306+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:34:43.306859+00:00, run_after=2023-03-01T11:34:43.306859+00:00
+[2023-03-01T12:34:43.318+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.949 seconds
+[2023-03-01T12:36:35.794+0100] {processor.py:153} INFO - Started process (PID=27394) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:36:35.800+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:36:35.800+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:36:35.800+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:36:35.846+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:36:36.759+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:36:36.759+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:36:36.773+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:36:36.773+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:36:36.773524+00:00, run_after=2023-03-01T11:36:36.773524+00:00
+[2023-03-01T12:36:36.787+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.993 seconds
+[2023-03-01T12:38:30.911+0100] {processor.py:153} INFO - Started process (PID=31417) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:38:30.916+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:38:30.917+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:38:30.916+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:38:30.972+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:38:31.908+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:38:31.908+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:38:31.932+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:38:31.932+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:38:31.931822+00:00, run_after=2023-03-01T11:38:31.931822+00:00
+[2023-03-01T12:38:31.951+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.040 seconds
+[2023-03-01T12:40:38.419+0100] {processor.py:153} INFO - Started process (PID=35887) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:40:38.423+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:40:38.423+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:40:38.423+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:40:38.476+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:40:39.592+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:40:39.592+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:40:39.610+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:40:39.610+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:40:39.610309+00:00, run_after=2023-03-01T11:40:39.610309+00:00
+[2023-03-01T12:40:39.626+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.208 seconds
+[2023-03-01T12:42:44.299+0100] {processor.py:153} INFO - Started process (PID=40142) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:42:44.302+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:42:44.303+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:42:44.302+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:42:44.344+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:42:45.255+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:42:45.255+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:42:45.269+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:42:45.269+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:42:45.269094+00:00, run_after=2023-03-01T11:42:45.269094+00:00
+[2023-03-01T12:42:45.283+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.984 seconds
+[2023-03-01T12:44:58.272+0100] {processor.py:153} INFO - Started process (PID=44491) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:44:58.277+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:44:58.277+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:44:58.277+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:44:58.330+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:44:59.429+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:44:59.428+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:44:59.449+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:44:59.449+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:44:59.448974+00:00, run_after=2023-03-01T11:44:59.448974+00:00
+[2023-03-01T12:44:59.466+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.195 seconds
+[2023-03-01T12:47:00.539+0100] {processor.py:153} INFO - Started process (PID=49534) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:47:00.545+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:47:00.545+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:47:00.545+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:47:00.589+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:47:01.474+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:47:01.474+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:47:01.486+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:47:01.485+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:47:01.485841+00:00, run_after=2023-03-01T11:47:01.485841+00:00
+[2023-03-01T12:47:01.498+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.959 seconds
+[2023-03-01T12:49:08.687+0100] {processor.py:153} INFO - Started process (PID=54050) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:49:08.691+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:49:08.692+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:49:08.691+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:49:08.777+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:49:09.870+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:49:09.870+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:49:09.893+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:49:09.893+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:49:09.893258+00:00, run_after=2023-03-01T11:49:09.893258+00:00
+[2023-03-01T12:49:09.914+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.229 seconds
+[2023-03-01T12:51:09.252+0100] {processor.py:153} INFO - Started process (PID=58340) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:51:09.255+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:51:09.255+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:51:09.255+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:51:09.301+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:51:10.190+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:51:10.189+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:51:10.204+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:51:10.204+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:51:10.204123+00:00, run_after=2023-03-01T11:51:10.204123+00:00
+[2023-03-01T12:51:10.217+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.966 seconds
+[2023-03-01T12:53:11.288+0100] {processor.py:153} INFO - Started process (PID=62596) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:53:11.293+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:53:11.293+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:53:11.293+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:53:11.338+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:53:12.231+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:53:12.231+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:53:12.243+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:53:12.243+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:53:12.242978+00:00, run_after=2023-03-01T11:53:12.242978+00:00
+[2023-03-01T12:53:12.256+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.968 seconds
+[2023-03-01T12:55:09.783+0100] {processor.py:153} INFO - Started process (PID=66898) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:55:09.788+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:55:09.788+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:55:09.788+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:55:09.841+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:55:10.798+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:55:10.798+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:55:10.817+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:55:10.817+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:55:10.817627+00:00, run_after=2023-03-01T11:55:10.817627+00:00
+[2023-03-01T12:55:10.838+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.056 seconds
+[2023-03-01T12:57:01.765+0100] {processor.py:153} INFO - Started process (PID=71159) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:57:01.768+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:57:01.768+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:57:01.768+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:57:01.814+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:57:02.666+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:57:02.666+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:57:02.679+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:57:02.679+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:57:02.679118+00:00, run_after=2023-03-01T11:57:02.679118+00:00
+[2023-03-01T12:57:02.691+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.927 seconds
+[2023-03-01T12:58:58.280+0100] {processor.py:153} INFO - Started process (PID=74425) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:58:58.290+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T12:58:58.290+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:58:58.290+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:58:58.350+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T12:58:59.401+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:58:59.400+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:58:59.416+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:58:59.415+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T11:58:59.415786+00:00, run_after=2023-03-01T11:58:59.415786+00:00
+[2023-03-01T12:58:59.430+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.151 seconds
+[2023-03-01T13:00:55.775+0100] {processor.py:153} INFO - Started process (PID=78683) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T13:00:55.779+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-01T13:00:55.780+0100] {logging_mixin.py:137} INFO - [2023-03-01T13:00:55.780+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T13:00:55.822+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-01T13:00:56.742+0100] {logging_mixin.py:137} INFO - [2023-03-01T13:00:56.742+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T13:00:56.755+0100] {logging_mixin.py:137} INFO - [2023-03-01T13:00:56.755+0100] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-02-28T12:00:56.755326+00:00, run_after=2023-03-01T12:00:56.755326+00:00
+[2023-03-01T13:00:56.771+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.996 seconds

@@ -1,0 +1,11 @@
+[2023-04-11T17:40:21.874+0200] {processor.py:153} INFO - Started process (PID=21181) to work on /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-11T17:40:21.877+0200] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-04-11T17:40:21.878+0200] {logging_mixin.py:137} INFO - [2023-04-11T17:40:21.878+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-11T17:40:21.941+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-04-11T17:40:22.714+0200] {logging_mixin.py:137} INFO - [2023-04-11T17:40:22.714+0200] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2023-04-11T17:40:22.720+0200] {logging_mixin.py:137} INFO - [2023-04-11T17:40:22.720+0200] {manager.py:504} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2023-04-11T17:40:22.725+0200] {logging_mixin.py:137} INFO - [2023-04-11T17:40:22.725+0200] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2023-04-11T17:40:22.725+0200] {logging_mixin.py:137} INFO - [2023-04-11T17:40:22.725+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-11T17:40:22.734+0200] {logging_mixin.py:137} INFO - [2023-04-11T17:40:22.733+0200] {dag.py:2726} INFO - Creating ORM DAG for example_sla_dag
+[2023-04-11T17:40:22.742+0200] {logging_mixin.py:137} INFO - [2023-04-11T17:40:22.742+0200] {dag.py:3452} INFO - Setting next_dagrun for example_sla_dag to 2023-04-11T15:38:00+00:00, run_after=2023-04-11T15:40:00+00:00
+[2023-04-11T17:40:22.755+0200] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.881 seconds

@@ -1,0 +1,214 @@
+[2023-03-01T12:03:04.164+0100] {processor.py:153} INFO - Started process (PID=56225) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:03:04.167+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:03:04.167+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:04.167+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:03:04.235+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:03:05.185+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:05.185+0100] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2023-03-01T12:03:05.191+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:05.191+0100] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2023-03-01T12:03:05.195+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:05.195+0100] {manager.py:504} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2023-03-01T12:03:05.195+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:05.195+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:03:05.202+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:05.202+0100] {dag.py:2711} INFO - Creating ORM DAG for example_sla_dag
+[2023-03-01T12:03:05.210+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:03:05.210+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:00:00+00:00, run_after=2023-03-01T11:02:00+00:00
+[2023-03-01T12:03:05.223+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.060 seconds
+[2023-03-01T12:05:07.409+0100] {processor.py:153} INFO - Started process (PID=60416) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:05:07.413+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:05:07.413+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:05:07.413+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:05:07.479+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:05:08.326+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:05:08.326+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:05:08.340+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:05:08.340+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:02:00+00:00, run_after=2023-03-01T11:04:00+00:00
+[2023-03-01T12:05:08.351+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.943 seconds
+[2023-03-01T12:07:01.903+0100] {processor.py:153} INFO - Started process (PID=64607) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:07:01.907+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:07:01.907+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:07:01.907+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:07:01.995+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:07:02.952+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:07:02.952+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:07:02.975+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:07:02.975+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:04:00+00:00, run_after=2023-03-01T11:06:00+00:00
+[2023-03-01T12:07:02.996+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.094 seconds
+[2023-03-01T12:08:52.620+0100] {processor.py:153} INFO - Started process (PID=67759) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:08:52.624+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:08:52.625+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:08:52.625+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:08:52.688+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:08:53.577+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:08:53.577+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:08:53.591+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:08:53.591+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:06:00+00:00, run_after=2023-03-01T11:08:00+00:00
+[2023-03-01T12:08:53.603+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.983 seconds
+[2023-03-01T12:10:51.296+0100] {processor.py:153} INFO - Started process (PID=71975) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:10:51.300+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:10:51.301+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:10:51.301+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:10:51.399+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:10:52.651+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:10:52.651+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:10:52.672+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:10:52.672+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:08:00+00:00, run_after=2023-03-01T11:10:00+00:00
+[2023-03-01T12:10:52.693+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.398 seconds
+[2023-03-01T12:12:56.274+0100] {processor.py:153} INFO - Started process (PID=76285) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:12:56.277+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:12:56.278+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:12:56.278+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:12:56.339+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:12:57.158+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:12:57.157+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:12:57.175+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:12:57.175+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:10:00+00:00, run_after=2023-03-01T11:12:00+00:00
+[2023-03-01T12:12:57.189+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.916 seconds
+[2023-03-01T12:14:48.525+0100] {processor.py:153} INFO - Started process (PID=80465) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:14:48.529+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:14:48.529+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:14:48.529+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:14:48.596+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:14:49.503+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:14:49.503+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:14:49.518+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:14:49.518+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:12:00+00:00, run_after=2023-03-01T11:14:00+00:00
+[2023-03-01T12:14:49.532+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.007 seconds
+[2023-03-01T12:16:51.938+0100] {processor.py:153} INFO - Started process (PID=84633) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:16:51.942+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:16:51.943+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:16:51.943+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:16:52.032+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:16:52.865+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:16:52.865+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:16:52.881+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:16:52.881+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:14:00+00:00, run_after=2023-03-01T11:16:00+00:00
+[2023-03-01T12:16:52.899+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.962 seconds
+[2023-03-01T12:18:47.546+0100] {processor.py:153} INFO - Started process (PID=88846) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:18:47.550+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:18:47.550+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:18:47.550+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:18:47.612+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:18:48.584+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:18:48.584+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:18:48.598+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:18:48.598+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:16:00+00:00, run_after=2023-03-01T11:18:00+00:00
+[2023-03-01T12:18:48.610+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.064 seconds
+[2023-03-01T12:20:40.717+0100] {processor.py:153} INFO - Started process (PID=93074) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:20:40.721+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:20:40.722+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:20:40.722+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:20:40.789+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:20:41.716+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:20:41.716+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:20:41.732+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:20:41.732+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:18:00+00:00, run_after=2023-03-01T11:20:00+00:00
+[2023-03-01T12:20:41.745+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.029 seconds
+[2023-03-01T12:23:11.619+0100] {processor.py:153} INFO - Started process (PID=98407) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:23:11.623+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:23:11.624+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:23:11.624+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:23:11.710+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:23:12.576+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:23:12.576+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:23:12.590+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:23:12.590+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:20:00+00:00, run_after=2023-03-01T11:22:00+00:00
+[2023-03-01T12:23:12.604+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.986 seconds
+[2023-03-01T12:25:19.841+0100] {processor.py:153} INFO - Started process (PID=3021) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:25:19.850+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:25:19.851+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:25:19.851+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:25:20.041+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:25:21.247+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:25:21.247+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:25:21.263+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:25:21.263+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:22:00+00:00, run_after=2023-03-01T11:24:00+00:00
+[2023-03-01T12:25:21.275+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.436 seconds
+[2023-03-01T12:27:19.575+0100] {processor.py:153} INFO - Started process (PID=7258) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:27:19.578+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:27:19.579+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:27:19.579+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:27:19.643+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:27:20.499+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:27:20.499+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:27:20.513+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:27:20.513+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:24:00+00:00, run_after=2023-03-01T11:26:00+00:00
+[2023-03-01T12:27:20.526+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.951 seconds
+[2023-03-01T12:29:11.055+0100] {processor.py:153} INFO - Started process (PID=11469) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:29:11.059+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:29:11.059+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:29:11.059+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:29:11.122+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:29:11.898+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:29:11.898+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:29:11.912+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:29:11.912+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:26:00+00:00, run_after=2023-03-01T11:28:00+00:00
+[2023-03-01T12:29:11.925+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.870 seconds
+[2023-03-01T12:31:01.507+0100] {processor.py:153} INFO - Started process (PID=15684) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:31:01.510+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:31:01.511+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:31:01.511+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:31:01.574+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:31:02.414+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:31:02.414+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:31:02.430+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:31:02.430+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:28:00+00:00, run_after=2023-03-01T11:30:00+00:00
+[2023-03-01T12:31:02.444+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.937 seconds
+[2023-03-01T12:32:49.313+0100] {processor.py:153} INFO - Started process (PID=18935) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:32:49.317+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:32:49.317+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:32:49.317+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:32:49.381+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:32:50.217+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:32:50.217+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:32:50.231+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:32:50.231+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:30:00+00:00, run_after=2023-03-01T11:32:00+00:00
+[2023-03-01T12:32:50.242+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.930 seconds
+[2023-03-01T12:34:39.229+0100] {processor.py:153} INFO - Started process (PID=23157) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:34:39.234+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:34:39.234+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:34:39.234+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:34:39.297+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:34:40.366+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:34:40.366+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:34:40.380+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:34:40.380+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:32:00+00:00, run_after=2023-03-01T11:34:00+00:00
+[2023-03-01T12:34:40.396+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.168 seconds
+[2023-03-01T12:36:32.702+0100] {processor.py:153} INFO - Started process (PID=27391) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:36:32.707+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:36:32.707+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:36:32.707+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:36:32.785+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:36:33.746+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:36:33.746+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:36:33.764+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:36:33.764+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:34:00+00:00, run_after=2023-03-01T11:36:00+00:00
+[2023-03-01T12:36:33.778+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.076 seconds
+[2023-03-01T12:38:28.287+0100] {processor.py:153} INFO - Started process (PID=30673) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:38:28.294+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:38:28.294+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:38:28.294+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:38:28.377+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:38:29.403+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:38:29.403+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:38:29.425+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:38:29.425+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:36:00+00:00, run_after=2023-03-01T11:38:00+00:00
+[2023-03-01T12:38:29.442+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.155 seconds
+[2023-03-01T12:40:35.055+0100] {processor.py:153} INFO - Started process (PID=35885) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:40:35.059+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:40:35.060+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:40:35.060+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:40:35.136+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:40:36.166+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:40:36.165+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:40:36.188+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:40:36.188+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:38:00+00:00, run_after=2023-03-01T11:40:00+00:00
+[2023-03-01T12:40:36.208+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.154 seconds
+[2023-03-01T12:42:41.280+0100] {processor.py:153} INFO - Started process (PID=40138) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:42:41.285+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:42:41.285+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:42:41.285+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:42:41.353+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:42:42.264+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:42:42.264+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:42:42.279+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:42:42.279+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:40:00+00:00, run_after=2023-03-01T11:42:00+00:00
+[2023-03-01T12:42:42.291+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.011 seconds
+[2023-03-01T12:44:54.976+0100] {processor.py:153} INFO - Started process (PID=44406) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:44:54.981+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:44:54.982+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:44:54.982+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:44:55.063+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:44:56.110+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:44:56.109+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:44:56.126+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:44:56.126+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:42:00+00:00, run_after=2023-03-01T11:44:00+00:00
+[2023-03-01T12:44:56.141+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.166 seconds
+[2023-03-01T12:46:57.792+0100] {processor.py:153} INFO - Started process (PID=48697) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:46:57.797+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:46:57.798+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:46:57.797+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:46:57.891+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:46:58.828+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:46:58.827+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:46:58.845+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:46:58.845+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:44:00+00:00, run_after=2023-03-01T11:46:00+00:00
+[2023-03-01T12:46:58.859+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.069 seconds
+[2023-03-01T12:49:05.535+0100] {processor.py:153} INFO - Started process (PID=54045) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:49:05.539+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:49:05.539+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:49:05.539+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:49:05.603+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:49:06.580+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:49:06.579+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:49:06.598+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:49:06.598+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:46:00+00:00, run_after=2023-03-01T11:48:00+00:00
+[2023-03-01T12:49:06.614+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.079 seconds
+[2023-03-01T12:51:06.005+0100] {processor.py:153} INFO - Started process (PID=58335) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:51:06.008+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:51:06.009+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:51:06.009+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:51:06.094+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:51:07.040+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:51:07.040+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:51:07.057+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:51:07.056+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:48:00+00:00, run_after=2023-03-01T11:50:00+00:00
+[2023-03-01T12:51:07.071+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.067 seconds
+[2023-03-01T12:53:08.167+0100] {processor.py:153} INFO - Started process (PID=62593) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:53:08.171+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:53:08.171+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:53:08.171+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:53:08.261+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:53:09.225+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:53:09.225+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:53:09.242+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:53:09.242+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:50:00+00:00, run_after=2023-03-01T11:52:00+00:00
+[2023-03-01T12:53:09.257+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.091 seconds
+[2023-03-01T12:55:06.758+0100] {processor.py:153} INFO - Started process (PID=66894) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:55:06.762+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:55:06.762+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:55:06.762+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:55:06.832+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:55:07.706+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:55:07.706+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:55:07.724+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:55:07.723+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:52:00+00:00, run_after=2023-03-01T11:54:00+00:00
+[2023-03-01T12:55:07.738+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.981 seconds
+[2023-03-01T12:56:58.849+0100] {processor.py:153} INFO - Started process (PID=70478) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:56:58.853+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:56:58.854+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:56:58.854+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:56:58.943+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:56:59.865+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:56:59.865+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:56:59.890+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:56:59.889+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:54:00+00:00, run_after=2023-03-01T11:56:00+00:00
+[2023-03-01T12:56:59.907+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.059 seconds
+[2023-03-01T12:58:54.863+0100] {processor.py:153} INFO - Started process (PID=74405) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:58:54.866+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T12:58:54.867+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:58:54.867+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:58:54.939+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T12:58:55.833+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:58:55.832+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T12:58:55.873+0100] {logging_mixin.py:137} INFO - [2023-03-01T12:58:55.873+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:56:00+00:00, run_after=2023-03-01T11:58:00+00:00
+[2023-03-01T12:58:55.903+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.042 seconds
+[2023-03-01T13:00:52.529+0100] {processor.py:153} INFO - Started process (PID=78681) to work on /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T13:00:52.533+0100] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-03-01T13:00:52.533+0100] {logging_mixin.py:137} INFO - [2023-03-01T13:00:52.533+0100] {dagbag.py:538} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T13:00:52.599+0100] {processor.py:753} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-03-01T13:00:53.748+0100] {logging_mixin.py:137} INFO - [2023-03-01T13:00:53.748+0100] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-01T13:00:53.768+0100] {logging_mixin.py:137} INFO - [2023-03-01T13:00:53.768+0100] {dag.py:3437} INFO - Setting next_dagrun for example_sla_dag to 2023-03-01T11:58:00+00:00, run_after=2023-03-01T12:00:00+00:00
+[2023-03-01T13:00:53.786+0100] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 1.257 seconds

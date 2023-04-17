@@ -1,0 +1,5 @@
+[2023-04-11T17:39:35.940+0200] {processor.py:153} INFO - Started process (PID=21121) to work on /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-11T17:39:35.943+0200] {processor.py:743} INFO - Processing file /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-04-11T17:39:35.944+0200] {logging_mixin.py:137} INFO - [2023-04-11T17:39:35.944+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-11T17:39:35.981+0200] {processor.py:755} WARNING - No viable dags retrieved from /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-04-11T17:39:36.697+0200] {processor.py:175} INFO - Processing /Users/oanottage/opt/anaconda3/envs/energyvenv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.758 seconds
