@@ -1,4 +1,5 @@
 #ignore everything in the BDI.db folder
 Data_Lake/Databases/EnergyWeatherDB.db
 
-Notebooks/*
+#Ignore everything in the Notebooks folder
+Notebooks
